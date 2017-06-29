@@ -1,0 +1,8 @@
+[25.06.2017 | 17:36:33] @Snowi [234667046993002496] :   Abend, hab gerade meinen eigenen DC Bot fertig geschrieben.
+[25.06.2017 | 17:36:50] @Snowi [234667046993002496] :   Nur der Export zunzt gerade nicht. hat wer Tipps
+[25.06.2017 | 17:37:10] @Skillkiller [98719514908188672] :   Was klappt den nicht 😃
+[25.06.2017 | 17:38:17] @Snowi [234667046993002496] :   Hauptklasse core.main konnte nicht gefunden oder geladen werden
+[25.06.2017 | 17:40:32] @Skillkiller [98719514908188672] :   Hast du in der pom.xml und in den Projekt Artekften die richtige Hauptklassen angeben
+[25.06.2017 | 17:40:59] @Snowi [234667046993002496] :   Eigentlich schon
+[25.06.2017 | 17:41:34] @Skillkiller [98719514908188672] :   Kommt der Error beim Builden der Jar Datei oder beim Ausführen
+[25.06.2017 | 20:45:10] @Skillkiller [98719514908188672] :   geht es jetzt

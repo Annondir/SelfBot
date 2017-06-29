@@ -1,0 +1,6 @@
+[13.06.2017 | 21:01:45] @????????? [257905689249185792] :   Baguette!
+[13.06.2017 | 21:09:20] @Lord Nightcore [315499915851857922] :   you need to change the : with a ; at the end of the queue before event.getGuild i think @? Rise of Chaos
+[13.06.2017 | 21:51:40] @Rise Of Chaos [209686482900746242] :   @Lord Nightcore that didnt work
+[13.06.2017 | 22:06:23] @Lord Nightcore [315499915851857922] :   sorry then but i cant help then. ?
+[13.06.2017 | 22:41:54] @Rise Of Chaos [209686482900746242] :   @?  ???  (zekro) can u help me with this problem ?
+[13.06.2017 | 22:43:31] @Lord Nightcore [315499915851857922] :   im so sorry

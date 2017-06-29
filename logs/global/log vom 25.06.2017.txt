@@ -1,0 +1,67 @@
+[25.06.2017 | 17:28:12] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !log
+[25.06.2017 | 17:28:16] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !log create
+[25.06.2017 | 17:28:21] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !log create channel
+[25.06.2017 | 17:28:56] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Annondir [285510544532832258] :   Er geht wieder, puh xD
+[25.06.2017 | 17:29:42] DΛRK DEVS   -   Developer Community Server [307084334198816769] || commands [308153679716941825] @Annondir [285510544532832258] :   !log create channel
+[25.06.2017 | 17:29:42] DΛRK DEVS   -   Developer Community Server [307084334198816769] || commands [308153679716941825] @Knecht [323587299617275904] :   
+[25.06.2017 | 17:29:45] DΛRK DEVS   -   Developer Community Server [307084334198816769] || commands [308153679716941825] @Knecht [323587299617275904] :   **Log of `screenlog.0`**
+*Full log file here: https://pastebin.com/raw/QhUqjjFm*
+
+```    yield from self.ws.change_presence(game=game, status=status, afk=afk)
+  File "/home/pi/Programs/KnechtBot/discord/gateway.py", line 456, in change_presence
+    yield from self.send(sent)
+  File "/home/pi/Programs/KnechtBot/discord/gateway.py", line 421, in send
+    yield from super().send(data)
+  File "/usr/local/lib/python3.4/dist-packages/websockets/protocol.py", line 310, in send
+    yield from self.ensure_open()
+  File "/usr/local/lib/python3.4/dist-packages/websockets/protocol.py", line 394, in ensure_open
+    raise ConnectionClosed(self.close_code, self.close_reason)
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006, no reason.
+```
+[25.06.2017 | 17:30:49] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Annondir [285510544532832258] :   ich wollte nur mit meinem Befehl `!log create channel` nen log für mich machen und der Bot schickt einfach auch nen log xD
+[25.06.2017 | 17:31:11] DΛRK DEVS   -   Developer Community Server [307084334198816769] || commands [308153679716941825] @Annondir [285510544532832258] :   -userinfo
+[25.06.2017 | 17:31:44] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ [257905689249185792] :   !log
+[25.06.2017 | 17:31:44] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Knecht [323587299617275904] :   
+[25.06.2017 | 17:31:47] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Knecht [323587299617275904] :   **Log of `screenlog.0`**
+*Full log file here: https://pastebin.com/raw/bDqECzbn*
+
+```  File "/home/pi/Programs/KnechtBot/discord/gateway.py", line 456, in change_presence
+    yield from self.send(sent)
+  File "/home/pi/Programs/KnechtBot/discord/gateway.py", line 421, in send
+    yield from super().send(data)
+  File "/usr/local/lib/python3.4/dist-packages/websockets/protocol.py", line 310, in send
+    yield from self.ensure_open()
+  File "/usr/local/lib/python3.4/dist-packages/websockets/protocol.py", line 394, in ensure_open
+    raise ConnectionClosed(self.close_code, self.close_reason)
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006, no reason.
+[25.06.2017 15:29:39] [COMMAND] "!log create channel" by Annondir
+```
+[25.06.2017 | 17:31:49] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ [257905689249185792] :   :)
+[25.06.2017 | 17:32:04] DΛRK DEVS   -   Developer Community Server [307084334198816769] || commands [308153679716941825] @Annondir [285510544532832258] :   -userinfo
+[25.06.2017 | 17:32:05] DΛRK DEVS   -   Developer Community Server [307084334198816769] || commands [308153679716941825] @zekrosBot [272336949841362944] :   
+[25.06.2017 | 17:32:33] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Annondir [285510544532832258] :   Es liegt tatsächlich an dem nicht existierenden PB xD
+[25.06.2017 | 17:35:56] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Skillkiller [98719514908188672] :   @Schüler Ist aber das Log vom Falschen Bot 😃
+[25.06.2017 | 17:36:09] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ [257905689249185792] :   pf
+[25.06.2017 | 17:36:12] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ [257905689249185792] :   -log
+[25.06.2017 | 17:36:12] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @zekrosBot [272336949841362944] :   
+[25.06.2017 | 17:36:17] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ [257905689249185792] :   besser?
+[25.06.2017 | 17:36:29] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Skillkiller [98719514908188672] :   @Schüler Wenn ein Log kommen würde ja 😉
+[25.06.2017 | 17:36:33] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ [257905689249185792] :   xd
+[25.06.2017 | 17:36:33] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   Abend, hab gerade meinen eigenen DC Bot fertig geschrieben.
+[25.06.2017 | 17:36:50] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   Nur der Export zunzt gerade nicht. hat wer Tipps
+[25.06.2017 | 17:36:56] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Skillkiller [98719514908188672] :   @Lord Nightcore Bei Großen Screenshots stört das gar nicht mal so, aber bei kleinen ist das echt nervig
+[25.06.2017 | 17:37:10] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Skillkiller [98719514908188672] :   Was klappt den nicht 😃
+[25.06.2017 | 17:38:17] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   Hauptklasse core.main konnte nicht gefunden oder geladen werden
+[25.06.2017 | 17:40:32] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Skillkiller [98719514908188672] :   Hast du in der pom.xml und in den Projekt Artekften die richtige Hauptklassen angeben
+[25.06.2017 | 17:40:59] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   Eigentlich schon
+[25.06.2017 | 17:41:08] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-trashtalk [321779941916278801] @Lord Nightcore [315499915851857922] :   warum fügst du den dann immer wieder hinzu?
+[25.06.2017 | 17:41:34] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Skillkiller [98719514908188672] :   Kommt der Error beim Builden der Jar Datei oder beim Ausführen
+[25.06.2017 | 17:43:01] DΛRK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @zekro [221905671296253953] :   @ManuGun kommt das beim Debuggen in intelliJ oder beim ausführen der Artifacts?
+[25.06.2017 | 20:28:53] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !log create channel
+[25.06.2017 | 20:28:59] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Skillkiller [98719514908188672] :   Wieviele ihren Logger auf File Basis haben  ?
+[25.06.2017 | 20:29:40] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Annondir [285510544532832258] :   ? Weil ich keine ahnugn von db hab xD
+[25.06.2017 | 20:30:25] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   test123
+[25.06.2017 | 20:34:51] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Annondir [285510544532832258] :   Ich bin zu dumm daf�r xD Dann lass ich den Bot halt mit Powershell laufen xD
+[25.06.2017 | 20:35:46] Skyparty.me [282910382484619264] || skyparty [282911848225964032] @CrafterJU [191823962106363905] :   nicht wirklich, deswegen warten wir ja auch auf die wiedergeburt #Space
+[25.06.2017 | 20:38:03] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Knecht [323587299617275904] :   
+[25.06.2017 | 20:45:10] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Skillkiller [98719514908188672] :   geht es jetzt

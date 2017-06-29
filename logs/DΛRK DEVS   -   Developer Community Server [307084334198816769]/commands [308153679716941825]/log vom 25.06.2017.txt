@@ -1,0 +1,19 @@
+[25.06.2017 | 17:29:42] @Annondir [285510544532832258] :   !log create channel
+[25.06.2017 | 17:29:42] @Knecht [323587299617275904] :   
+[25.06.2017 | 17:29:45] @Knecht [323587299617275904] :   **Log of `screenlog.0`**
+*Full log file here: https://pastebin.com/raw/QhUqjjFm*
+
+```    yield from self.ws.change_presence(game=game, status=status, afk=afk)
+  File "/home/pi/Programs/KnechtBot/discord/gateway.py", line 456, in change_presence
+    yield from self.send(sent)
+  File "/home/pi/Programs/KnechtBot/discord/gateway.py", line 421, in send
+    yield from super().send(data)
+  File "/usr/local/lib/python3.4/dist-packages/websockets/protocol.py", line 310, in send
+    yield from self.ensure_open()
+  File "/usr/local/lib/python3.4/dist-packages/websockets/protocol.py", line 394, in ensure_open
+    raise ConnectionClosed(self.close_code, self.close_reason)
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1006, no reason.
+```
+[25.06.2017 | 17:31:11] @Annondir [285510544532832258] :   -userinfo
+[25.06.2017 | 17:32:04] @Annondir [285510544532832258] :   -userinfo
+[25.06.2017 | 17:32:05] @zekrosBot [272336949841362944] :   

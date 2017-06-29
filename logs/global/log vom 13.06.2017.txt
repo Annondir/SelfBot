@@ -1,0 +1,187 @@
+[13.06.2017 | 00:01:24] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Tomte [Ellenoth] [231454342245384203] :   muss kurz weg
+[13.06.2017 | 00:01:53] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Blacky [Skjöll] [306128089266520066] :   LEUTE NOCH DA
+[13.06.2017 | 00:01:56] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Blacky [Skjöll] [306128089266520066] :   -:-
+[13.06.2017 | 00:01:58] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Blacky [Skjöll] [306128089266520066] :   -.-
+[13.06.2017 | 00:02:00] Pen&Paper [318850953208135680] || wuerfel-chat [321335390164221953] @Annondir [285510544532832258] :   3w20
+[13.06.2017 | 00:02:00] Pen&Paper [318850953208135680] || wuerfel-chat [321335390164221953] @DSABot [320884264956723203] :   4, 16, 16
+[13.06.2017 | 00:02:19] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Blacky [Skjöll] [306128089266520066] :   WENN KEINER WILL KÖNNEN WIR UNS AUCH HINLEGEN
+[13.06.2017 | 00:02:22] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Blacky [Skjöll] [306128089266520066] :   T_T
+[13.06.2017 | 00:02:38] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   hörst du mich
+[13.06.2017 | 00:04:08] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Blacky [Skjöll] [306128089266520066] :   w20
+[13.06.2017 | 00:04:08] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @DSABot [320884264956723203] :   20
+[13.06.2017 | 17:25:25] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   jup
+[13.06.2017 | 17:25:42] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   hab ich gemacht, bringt aber nichts
+[13.06.2017 | 17:26:59] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   fahr mal mit der maus drüber aber klick nichts an und send nen screen
+[13.06.2017 | 17:27:44] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Skillkiller [98719514908188672] :   Aber wenn es null ist weißt du wenigstens wann ein Error ausgelöst wurde ?
+[13.06.2017 | 17:28:03] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Skillkiller [98719514908188672] :   Lade mal deine gesamte Class auf Pastebin, Hastebin, Gist mir egal
+[13.06.2017 | 17:29:28] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   https://pastebin.com/ywXV7PKB
+[13.06.2017 | 17:42:30] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @zekro [221905671296253953] :   Arbeite momentan btw daran, den -dev command in den @?? Knecht zu porten ^^
+[13.06.2017 | 17:42:32] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @zekro [221905671296253953] :   ;dev java html css c# ficke lel xd
+[13.06.2017 | 17:42:33] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @devBot [287538435655204864] :   
+[13.06.2017 | 17:43:09] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   wer hat grad bock irgendwas zu spiele ^^
+[13.06.2017 | 17:43:21] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   hab CSGO und Minecraft und andere spiele
+[13.06.2017 | 18:00:05] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Skillkiller [98719514908188672] :   Brauchen eher bei CSS, PHP und JavaScript hilfe
+[13.06.2017 | 18:01:51] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   GTA?
+[13.06.2017 | 18:02:12] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   yeah
+[13.06.2017 | 18:02:17] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   SC Name?
+[13.06.2017 | 18:02:28] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   same like here
+[13.06.2017 | 18:02:51] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Okay, kleinen moment
+[13.06.2017 | 18:02:59] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   kein problem
+[13.06.2017 | 18:03:09] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   hab aber kein money mer -150millionen xD
+[13.06.2017 | 18:03:47] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Hab zum Glück noch
+[13.06.2017 | 18:04:28] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Hab dir ne Anfrage geschickt
+[13.06.2017 | 18:06:01] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   angenommen
+[13.06.2017 | 18:06:21] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Joinst du mir nach?
+[13.06.2017 | 18:06:26] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   j
+[13.06.2017 | 18:06:42] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   geht grad noch nicht
+[13.06.2017 | 18:06:51] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Jo, joine selbst noch
+[13.06.2017 | 18:07:00] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   asu xD
+[13.06.2017 | 18:07:06] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   xD
+[13.06.2017 | 18:07:16] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   :papaF: Ich bin eben ein PRofi
+[13.06.2017 | 18:07:23] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Jetzt
+[13.06.2017 | 18:10:10] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   lad ma in orga ein
+[13.06.2017 | 18:10:14] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   lass am Flughafen treffen
+[13.06.2017 | 18:12:28] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Front. [318773753796624394] :   Oder nein, wir fahren zu meinem Bunker
+[13.06.2017 | 18:12:39] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   warte ma kurz lass talk
+[13.06.2017 | 18:21:34] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   hat hier jemand JS skills?
+[13.06.2017 | 18:29:15] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   ne sorry
+[13.06.2017 | 18:29:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   -dev
+[13.06.2017 | 18:29:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:30:33] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   -dev html
+[13.06.2017 | 18:30:33] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:30:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @zekro [221905671296253953] :   ;dev java css lel
+[13.06.2017 | 18:30:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @devBot [287538435655204864] :   
+[13.06.2017 | 18:30:39] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @devBot [287538435655204864] :   
+[13.06.2017 | 18:31:04] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @zekro [221905671296253953] :   ;dev css html lel
+[13.06.2017 | 18:31:04] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @devBot [287538435655204864] :   
+[13.06.2017 | 18:31:17] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   ich kann aber lel programmieren
+[13.06.2017 | 18:31:20] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @zekro [221905671296253953] :   ups falscher channel ?
+[13.06.2017 | 18:31:34] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   -dev java c#  c++ c html css
+[13.06.2017 | 18:31:34] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:32:13] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   -dev java
+[13.06.2017 | 18:32:13] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:32:19] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   -dev c#
+[13.06.2017 | 18:32:19] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:32:34] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   -dev c++
+[13.06.2017 | 18:32:35] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:32:52] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   -dev c
+[13.06.2017 | 18:32:52] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:33:01] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @naix [200627281817763840] :   du kannst mehrere argumente angeben-
+[13.06.2017 | 18:33:08] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @naix [200627281817763840] :   du musst nicht alles einzeln machen
+[13.06.2017 | 18:33:09] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   ging iwie nicht
+[13.06.2017 | 18:33:16] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   wollt ich grad sagen ?
+[13.06.2017 | 18:33:25] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   -dev html css
+[13.06.2017 | 18:33:25] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:33:28] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   - dev html java
+[13.06.2017 | 18:33:30] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @TheDeepSpacer [161855472926720001] :   lol jetzt gehts
+[13.06.2017 | 18:33:39] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   -dev html java
+[13.06.2017 | 18:33:39] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 18:33:57] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   how can i remove roles?
+[13.06.2017 | 18:44:59] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   @?  ???  (zekro)
+[13.06.2017 | 18:47:11] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @AveronTV [170815084271108096] :   idk
+[13.06.2017 | 18:57:02] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   kann mir wer helfen, warum der toString nicht mehr erkennt, wenn ich subString direkt dahinter packe? ohne substring erkennt er es
+[13.06.2017 | 18:58:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   also ich habs mal ohne substring gemacht und er löscht auch meine nachricht, schreibt dann aber 5x und mehr die selbe in den chat
+[13.06.2017 | 19:08:57] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @zekro [221905671296253953] :   .toString() ist ne funktion
+[13.06.2017 | 19:09:00] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @zekro [221905671296253953] :   also mit ()
+[13.06.2017 | 19:09:20] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @zekro [221905671296253953] :   nir variablen in klassen sind ohne ()
+[13.06.2017 | 19:15:13] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   jz hab ich noch das problem, dass ich immer 2 nahrichten als antwort  bekomme (den command löscht er aber schon), wenn ich das als code habe
+[13.06.2017 | 19:20:48] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @TheDeepSpacer [161855472926720001] :   ich bin zu doof für git hub wie kann ich jetzt den zekrbot herunteladen dass ich ihn bearbeiten kann?
+[13.06.2017 | 19:21:23] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   
+[13.06.2017 | 19:32:48] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Skillkiller [98719514908188672] :   Hats du den Bot 2 mal laufen
+[13.06.2017 | 19:34:30] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   ne hab das String out .. mal gelöscht und jz klappts. danke trotzdem
+[13.06.2017 | 19:35:00] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Skillkiller [98719514908188672] :   Und hast du deinen Fehler mit ``.toString() `` gefunden
+[13.06.2017 | 19:35:19] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   jup. klappt ja jz alles
+[13.06.2017 | 19:36:22] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @Lord Nightcore [315499915851857922] :   bin grade mega happy
+[13.06.2017 | 19:58:07] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   kann ich iwie den bot mit der -jar über mein handy lauifen lassen, asl notlösung?
+[13.06.2017 | 20:00:56] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   nop
+[13.06.2017 | 20:01:03] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   geht leider net^^
+[13.06.2017 | 20:01:30] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   doch sollte eigentlich bei samsung funktionieren ?
+[13.06.2017 | 20:01:42] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   bei anderen herstellern weiß ich es nicht
+[13.06.2017 | 20:02:16] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Nee xD
+[13.06.2017 | 20:02:24] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   doch kenne sogar einen der das macht lol
+[13.06.2017 | 20:02:29] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Du kannst die net starten
+[13.06.2017 | 20:02:36] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Wie wo was?
+[13.06.2017 | 20:02:52] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   Ein amerikaner von nem anderen discord
+[13.06.2017 | 20:02:57] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   xD
+[13.06.2017 | 20:03:36] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Aber dann muss der ne App dafür oder so haben xD
+[13.06.2017 | 20:07:36] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   sag mal an
+[13.06.2017 | 20:07:41] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   bitte
+[13.06.2017 | 20:11:30] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   !lmgtfy google|android jar datei ausführen
+[13.06.2017 | 20:11:39] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   der bot geht nicht :lul:
+[13.06.2017 | 20:11:56] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   /d 2
+[13.06.2017 | 20:12:24] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   https://www.google.de/search?client=opera&q=android+jar+datei+ausführen&sourceid=opera&ie=UTF-8&oe=UTF-8
+[13.06.2017 | 20:13:22] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   thx
+[13.06.2017 | 20:15:33] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Hydroxion [143717568773881866] :   -dev java
+[13.06.2017 | 20:15:34] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 20:26:16] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   -invite
+[13.06.2017 | 20:26:53] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   how can i invite zekros bot to my own channel. is that possible?
+[13.06.2017 | 20:34:22] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Hydroxion [143717568773881866] :   -dev
+[13.06.2017 | 20:34:22] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @zekrosBot [272336949841362944] :   
+[13.06.2017 | 20:59:14] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @????????? [257905689249185792] :   kuhl.
+[13.06.2017 | 20:59:27] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @????????? [257905689249185792] :   hab jetzt ein PB :)
+[13.06.2017 | 20:59:32] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @????????? [257905689249185792] :   wie gefällt es euch?
+[13.06.2017 | 21:01:45] D?RK DEVS   -   Developer Community Server [307084334198816769] || support [307088595099975680] @????????? [257905689249185792] :   Baguette!
+[13.06.2017 | 21:09:20] D?RK DEVS   -   Developer Community Server [307084334198816769] || support [307088595099975680] @Lord Nightcore [315499915851857922] :   you need to change the : with a ; at the end of the queue before event.getGuild i think @? Rise of Chaos
+[13.06.2017 | 21:11:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   @Schüler nice nice^^
+[13.06.2017 | 21:20:27] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   @Lord Nightcore SAO fan xD
+[13.06.2017 | 21:20:56] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   how have you found out ;D
+[13.06.2017 | 21:21:13] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   ich bin selber sao fan xD
+[13.06.2017 | 21:22:06] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Kirito xd
+[13.06.2017 | 21:22:57] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @The Brandy [286521349025955840] :   @Lord Nightcore juat go to Zekro Githup page^^
+[13.06.2017 | 21:23:00] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @The Brandy [286521349025955840] :   just xD
+[13.06.2017 | 21:23:27] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   Ist hier jmd Designer ?
+[13.06.2017 | 21:23:39] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   In wie fern?
+[13.06.2017 | 21:23:53] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   ja bin ich ?
+[13.06.2017 | 21:23:59] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   deswegen auch der bot name etc
+[13.06.2017 | 21:24:00] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   Banner und PB erstellen kann ?
+[13.06.2017 | 21:24:22] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   SAO is mein 1st-genannter anime wenns um favoriten geht
+[13.06.2017 | 21:24:32] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   ja könnt ich machen
+[13.06.2017 | 21:24:36] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   @AveronTV
+[13.06.2017 | 21:24:38] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   <-- Elfenlied xD
+[13.06.2017 | 21:25:03] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @Lord Nightcore [315499915851857922] :   what would i do without you @The Brandy
+[13.06.2017 | 21:25:21] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   ich war grad iwie bei webseiten xD
+[13.06.2017 | 21:25:30] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   lass mal pm schreiben wenn du willst
+[13.06.2017 | 21:25:36] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   muss jz essen bb
+[13.06.2017 | 21:25:43] D?RK DEVS   -   Developer Community Server [307084334198816769] || general [307084334198816769] @The Brandy [286521349025955840] :   @Lord Nightcore you have hit by train i think xD
+[13.06.2017 | 21:25:53] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   xD
+[13.06.2017 | 21:25:58] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   meinst du mich xD?
+[13.06.2017 | 21:26:17] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   jup. muss jz bin später wieder da
+[13.06.2017 | 21:26:29] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Kay xD
+[13.06.2017 | 21:28:29] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   @AveronTV hab zwar keine ahnung was du bestimmtes willst aber ich könnte es versuchen xD
+[13.06.2017 | 21:28:57] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   es ging um mein YouTube kanal
+[13.06.2017 | 21:29:31] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   xD
+[13.06.2017 | 21:29:59] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Hast du ne ordentliche ausrüstung so als nebenbei frage? D
+[13.06.2017 | 21:30:20] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   Ausrüstung ?
+[13.06.2017 | 21:30:52] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Mircofon,Pc sowas halt xD
+[13.06.2017 | 21:30:58] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   Ja
+[13.06.2017 | 21:32:07] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Ich warte noch ein paar jahre bevor ich mit YT anfange xD
+[13.06.2017 | 21:32:29] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   xD
+[13.06.2017 | 21:33:43] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @The Brandy [286521349025955840] :   Allerdings mach ich YT mit nem Kollegen von mir xD
+[13.06.2017 | 21:51:40] D?RK DEVS   -   Developer Community Server [307084334198816769] || support [307088595099975680] @Rise Of Chaos [209686482900746242] :   @Lord Nightcore that didnt work
+[13.06.2017 | 22:06:23] D?RK DEVS   -   Developer Community Server [307084334198816769] || support [307088595099975680] @Lord Nightcore [315499915851857922] :   sorry then but i cant help then. ?
+[13.06.2017 | 22:33:04] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Alala [277179540764360714] :   weiss jemand warum mein dicord bot keine commands nehmen tut ? ?
+[13.06.2017 | 22:36:04] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   was falsches programmiert oder zeichenfehler?
+[13.06.2017 | 22:39:18] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Alala [277179540764360714] :   Nope habe alles so gemacht wie in der youtube reihe es gesagt wurde aber er will es nicht machen :/ der command sieht er aber nimmt ihn nicht
+[13.06.2017 | 22:39:48] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   welchen willst du denn machen?
+[13.06.2017 | 22:40:19] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Alala [277179540764360714] :   einfach das er grade den ping command nimmt das geht nicht
+[13.06.2017 | 22:41:00] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Alala [277179540764360714] :   ich lade es mal auf pastebin und send es dir pribvat
+[13.06.2017 | 22:41:06] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Lord Nightcore [315499915851857922] :   kk
+[13.06.2017 | 22:41:54] D?RK DEVS   -   Developer Community Server [307084334198816769] || support [307088595099975680] @Rise Of Chaos [209686482900746242] :   @?  ???  (zekro) can u help me with this problem ?
+[13.06.2017 | 22:43:31] D?RK DEVS   -   Developer Community Server [307084334198816769] || support [307088595099975680] @Lord Nightcore [315499915851857922] :   im so sorry
+[13.06.2017 | 22:55:19] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !mentioned channel
+[13.06.2017 | 22:55:25] DÎ›RK DEVS   -   Developer Community Server [307084334198816769] || ger-dev [321779890011766785] @AveronTV [170815084271108096] :   Wo finde ich in Intellji meine Projekte also Ordner
+[13.06.2017 | 22:55:48] DÎ›RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Alala [277179540764360714] :   talk 1
+[13.06.2017 | 22:55:49] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !mentioned global
+[13.06.2017 | 22:56:30] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !mentioned channel
+[13.06.2017 | 22:56:37] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !mentioned channel
+[13.06.2017 | 22:56:37] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   a
+[13.06.2017 | 22:58:02] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !mentioned channel
+[13.06.2017 | 22:58:03] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   d
+[13.06.2017 | 22:58:04] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   da
+[13.06.2017 | 22:58:05] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   sad
+[13.06.2017 | 22:58:06] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   das
+[13.06.2017 | 22:58:06] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   asd
+[13.06.2017 | 22:58:07] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   sda
+[13.06.2017 | 22:58:08] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   sda
+[13.06.2017 | 22:58:20] Testserver [285562876561981441] || general [285562876561981441] @Annondir [285510544532832258] :   !messages global
+[13.06.2017 | 22:58:40] DÎ›RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @AveronTV [170815084271108096] :   ?

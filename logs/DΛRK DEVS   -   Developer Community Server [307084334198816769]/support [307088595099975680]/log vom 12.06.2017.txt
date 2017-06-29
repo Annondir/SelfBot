@@ -1,0 +1,26 @@
+[12.06.2017 | 17:22:45] @TheDeepSpacer [161855472926720001] :   @?  ???  (zekro) was ist da passiert?
+[12.06.2017 | 17:24:02] @Lord Nightcore [315499915851857922] :   #ger-general for german support please
+[12.06.2017 | 17:24:07] @TheDeepSpacer [161855472926720001] :   sry
+[12.06.2017 | 19:55:38] @Rise Of Chaos [209686482900746242] :   what wrong did he do ?
+[12.06.2017 | 19:55:48] @Rise Of Chaos [209686482900746242] :   he was in need of support
+[12.06.2017 | 19:55:52] @Rise Of Chaos [209686482900746242] :   jesus....
+[12.06.2017 | 19:55:56] @Rise Of Chaos [209686482900746242] :   anyway
+[12.06.2017 | 19:55:58] @Rise Of Chaos [209686482900746242] :   i need help
+[12.06.2017 | 19:57:22] @Rise Of Chaos [209686482900746242] :   ```java
+event.getJDA().getGuilds().stream()
+                    .filter(g -> !ignoreList.contains(g.getId()))
+                    .forEach(g -> g.getSelfMember().hasPermission(Permission.MESSAGE_WRITE) ? g.getPublicChannel().sendMessage(
+                            new EmbedBuilder()
+                                    .setColor(Color.GREEN)
+                                    .setAuthor("\uD83D\uDCE2  Broadcast message by " + event.getAuthor().getName(), null, event.getAuthor().getAvatarUrl())
+                                    .setDescription(sb.toString().substring(1))
+                                    .build()
+                    ).queue() : event.getGuild().getOwner().getUser().openPrivateChannel().complete().sendMessage(
+                            new EmbedBuilder()
+                                    .setColor(Color.GREEN)
+                                    .setDescription("Dear Owner, I Dont have `Send_Messages` Permission in public channel" + event.getGuild().getPublicChannel().getName()
+                                            + "\nPlease tell `Rise Of Chaos#2391` for help").build()
+                    ).queue());
+```
+
+How do i fix this ???

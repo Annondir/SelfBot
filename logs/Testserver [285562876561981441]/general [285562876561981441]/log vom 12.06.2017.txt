@@ -1,0 +1,34 @@
+[12.06.2017 | 14:21:02] @Annondir [285510544532832258] :   !messages channel
+[12.06.2017 | 14:21:19] @Annondir [285510544532832258] :   !messages channel
+[12.06.2017 | 16:03:19] @Annondir [285510544532832258] :   w20
+[12.06.2017 | 16:03:19] @DSABot [320884264956723203] :   3
+[12.06.2017 | 16:03:35] @Annondir [285510544532832258] :   w20
+[12.06.2017 | 16:03:35] @DSABot [320884264956723203] :   19
+[12.06.2017 | 16:04:08] @Annondir [285510544532832258] :   2w20
+[12.06.2017 | 16:04:08] @DSABot [320884264956723203] :   3, 1
+[12.06.2017 | 18:50:36] @Annondir [285510544532832258] :   2w20
+[12.06.2017 | 18:50:36] @DSABot [320884264956723203] :   10, 9
+[12.06.2017 | 23:37:54] @Annondir [285510544532832258] :   !messages global
+[12.06.2017 | 23:44:23] @Annondir [285510544532832258] :   !log create channel
+[12.06.2017 | 23:47:36] @Annondir [285510544532832258] :   !elf
+[12.06.2017 | 23:47:36] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungen um das zu tun
+[12.06.2017 | 23:47:37] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungn, um das zu tun!
+[12.06.2017 | 23:47:39] @Annondir [285510544532832258] :   !elf
+[12.06.2017 | 23:47:39] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungen um das zu tun
+[12.06.2017 | 23:47:40] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungn, um das zu tun!
+[12.06.2017 | 23:47:56] @Annondir [285510544532832258] :   !elf
+[12.06.2017 | 23:47:56] @SelbionBot [313376725960622080] :   
+[12.06.2017 | 23:48:00] @Annondir [285510544532832258] :   !elf
+[12.06.2017 | 23:48:01] @SelbionBot [313376725960622080] :   
+[12.06.2017 | 23:48:11] @Annondir [285510544532832258] :   !elf
+[12.06.2017 | 23:48:12] @SelbionBot [313376725960622080] :   
+[12.06.2017 | 23:48:23] @Annondir [285510544532832258] :   !elf
+[12.06.2017 | 23:48:23] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungen um das zu tun
+[12.06.2017 | 23:48:23] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungn, um das zu tun!
+[12.06.2017 | 23:48:29] @Annondir [285510544532832258] :   !faust
+[12.06.2017 | 23:48:29] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungen um das zu tun
+[12.06.2017 | 23:48:29] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungn, um das zu tun!
+[12.06.2017 | 23:48:36] @Annondir [285510544532832258] :   !scharr
+[12.06.2017 | 23:48:39] @Annondir [285510544532832258] :   !schar
+[12.06.2017 | 23:48:39] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungen um das zu tun
+[12.06.2017 | 23:48:40] @SelbionBot [313376725960622080] :   :warning:  @Annondir du hast nicht die benötigten Berechtigungn, um das zu tun!

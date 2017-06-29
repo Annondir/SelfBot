@@ -1,0 +1,127 @@
+[06.06.2017 | 16:57:32] @naix:   xd
+[06.06.2017 | 16:58:29] @The Skool:   hey ich hab davon keine ahnung xD
+[06.06.2017 | 16:59:04] @Annondir:   Ich hab mich an Java das erstemal vor ca nem 3/4 Jahr rangetraut. Da hab ich nen kleines MC-Plugin geschrieben. Und hab nach dem Plugin bis vor ~2 Wochen von Intellij oder iwas anders was mit Javaprogrammierung zu tun hat die Finger weg gelassen xD
+[06.06.2017 | 16:59:36] @The Skool:   worum ging es im plugin? xD
+[06.06.2017 | 17:00:25] @Annondir:   Hat einen Satz den man in ner Config einstellen kann alle x minuten (Auch in der Config einstellbar) in einer zufälligen Farbe gesendet
+[06.06.2017 | 17:00:31] @Annondir:   Also relativ simpel
+[06.06.2017 | 17:00:36] @The Skool:   -.-
+[06.06.2017 | 17:00:42] @The Skool:   aber besser als nix xd
+[06.06.2017 | 17:00:46] @Annondir:   ja xD
+[06.06.2017 | 17:01:04] @The Skool:   hui exsetiert das plugin noch? xD
+[06.06.2017 | 17:01:27] @Annondir:   Ja xD
+[06.06.2017 | 17:01:33] @Annondir:   Why? o.O
+[06.06.2017 | 17:01:44] @The Skool:   warum net D
+[06.06.2017 | 17:01:48] @The Skool:   :D
+[06.06.2017 | 17:02:13] @naix:   so loggen? 
+`/selfbot/guilds/[guildId]/[channelId].txt`
+[06.06.2017 | 17:02:16] @naix:   also in dem ordner?
+[06.06.2017 | 17:02:40] @Annondir:   Sieht doch gut aus 😄
+[06.06.2017 | 17:02:46] @naix:   gut gut 😃
+[06.06.2017 | 17:03:02] @Annondir:   Wobei ich lieber namen nehme, da ich mit IDs nix anfangen könnte xD
+[06.06.2017 | 17:03:21] @naix:   der name ist dann wieder verbuggt, siehe das A von dem server xd
+[06.06.2017 | 17:03:52] @Annondir:   :/
+[06.06.2017 | 17:03:56] @naix:   ich werde es sowieso so machen dass man nicht mehr auf den server zugreifen muss und alles mit command regeln kann
+[06.06.2017 | 17:04:12] @Annondir:   👌
+[06.06.2017 | 17:07:47] @The Skool:   @Annondir ich halt noch ein mc plugin schreiben aber das werde ich woll verschieben müssen xD
+[06.06.2017 | 17:07:59] @Annondir:   xD
+[06.06.2017 | 17:08:55] @The Skool:   naja ich würde gerne ein plugin das leute anhand ihrer uuid bannt schreiben xD
+[06.06.2017 | 17:09:17] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ:   ist das so schwer?
+[06.06.2017 | 17:09:53] @naix:   ne xd
+[06.06.2017 | 17:10:01] @ᏕᏬᏰᏒᎧᎧᏇᏦᎤ:   lol
+[06.06.2017 | 17:10:20] @Annondir:   In meinem Kopf klingt das bannen über UUID einfach xD
+Hab aber ewig nemmer mit der Spigotapi was gemacht
+[06.06.2017 | 17:10:25] @naix:   gibt auch schon genug plugins + es bringt nix weil ein UUID ban nix anderes ist wie ein normaler ban
+[06.06.2017 | 17:10:45] @The Skool:   @🌠 naix es ist kompliziert
+[06.06.2017 | 17:10:51] @naix:   nein xd
+[06.06.2017 | 17:10:56] @The Skool:   ich hab kein plan von java also xD
+[06.06.2017 | 17:11:08] @naix:   bringt aber sowieso nix
+[06.06.2017 | 17:11:29] @Skillkiller:   @🌠 naix du loggst deine Nachricht aber nach System Uhrzeit und klar dir Verschiebung zwischen senden und empfangen ist nicht groß aber die CreationTime ist halt genauer
+[06.06.2017 | 17:11:31] @Annondir:   Dafür brauchst du fast 0 plan von java sondern von der Bukkitapi xD
+[06.06.2017 | 17:11:32] @The Skool:   ip ban oder namen ban ist schlechter als uuid
+[06.06.2017 | 17:12:47] @The Skool:   @Annondir kennst du minedead? xD
+[06.06.2017 | 17:13:02] @Annondir:   Nö, muss ich das kennen? xD
+[06.06.2017 | 17:13:13] @The Skool:   hätte ja sein können xD
+[06.06.2017 | 17:13:46] @The Skool:   ist ein Server im style von walking dead xD
+[06.06.2017 | 17:14:02] @Annondir:   Kenn walking dead nicht xD
+[06.06.2017 | 17:14:07] @The Skool:   -.-
+[06.06.2017 | 17:14:14] @The Skool:   guter junge
+[06.06.2017 | 17:14:15] @The Skool:   D
+[06.06.2017 | 17:14:52] @Annondir:   xD
+[06.06.2017 | 17:15:54] @The Skool:   ich hasse walking dead aber den spielmodus mag ich xD
+[06.06.2017 | 17:17:34] @The Skool:   Thunfisch-Popcorn Pizza xD
+[06.06.2017 | 17:18:00] @naix:   @Skillkiller ganz im gegenteil eigentlich, die systemzeit ist nämlich die gleiche wie die deutsche zeit :lul: ist einfacher als 4750927 zeilen zu schreiben
+[06.06.2017 | 17:19:26] @naix:   war grad kurz vorm nervenzusammenbruch x) hab meinen neuen logger kopiert, aber es hat ihn nicht kopiert und hab ihn gelöscht
+[06.06.2017 | 17:19:41] @Annondir:   xD
+[06.06.2017 | 17:19:43] @naix:   konnte es wiederherstellen 😍
+[06.06.2017 | 17:19:51] @The Skool:   -.- warum guck ich Super RTL xD?
+[06.06.2017 | 17:21:37] @Annondir:   Meine ganzen Plugins sind weg😭😭😭😭😭😭😭
+[06.06.2017 | 17:21:44] @The Skool:   -.-
+[06.06.2017 | 17:21:52] @The Skool:   für mc oder was? D
+[06.06.2017 | 17:21:58] @The Skool:   D:
+[06.06.2017 | 17:22:04] @Annondir:   Ja 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
+[06.06.2017 | 17:22:28] @The Skool:   die mülltonne hat sie bestimmt^^
+[06.06.2017 | 17:23:20] @Annondir:   Nein😭
+Die müssen schon ewig weg sein😭
+[06.06.2017 | 17:23:25] @The Skool:   - -
+[06.06.2017 | 17:23:26] @The Skool:   -.-
+[06.06.2017 | 17:23:42] @Annondir:   Seit dem 15.05. um genau zu sein😭
+[06.06.2017 | 17:23:50] @The Skool:   -.-
+[06.06.2017 | 17:24:17] @Annondir:   Und windows hat auch keine Vorgängerversionen gespeichert...
+[06.06.2017 | 17:24:25] @The Skool:   windoof*
+[06.06.2017 | 17:24:35] @Annondir:   Sry, verschrieben
+[06.06.2017 | 17:27:33] @The Skool:   xD
+[06.06.2017 | 17:29:59] @The Skool:   was ist der unterschied zwischen bukkit und spigot?
+[06.06.2017 | 17:30:10] @Annondir:   Das is das gleiche xD
+[06.06.2017 | 17:31:20] @The Skool:   -.-
+[06.06.2017 | 17:39:02] @naix:   :FeelsDabMan: baue gerade eine möglichkeit ein individuelle channel nicht zu loggen
+[06.06.2017 | 17:39:20] @Annondir:   okey xD
+[06.06.2017 | 17:41:04] @naix:   der Log command den ich gestern komplett neu gecodet hab ist schon wieder unübersichtlich des todes xd
+[06.06.2017 | 17:41:12] @Annondir:   xD
+[06.06.2017 | 17:41:40] @The Skool:   @🌠 naix dann hör auf mit java xD
+[06.06.2017 | 17:43:33] @The Skool:   wenn ich mit der bukkit api anfange ist das selbe wie mit der spigot api xd
+[06.06.2017 | 17:52:29] @naix:   http://p.naix.pro/naix-17f06a06b173-260.png
+[06.06.2017 | 17:52:43] @naix:   ist doch schon professioneller als alles in den code rein zu klatschen xd
+[06.06.2017 | 17:52:57] @The Skool:   musst du dann die ids reinpacken? xD
+[06.06.2017 | 17:53:02] @naix:   ja
+[06.06.2017 | 17:53:06] @The Skool:   nice
+[06.06.2017 | 17:53:22] @The Skool:   darf ich vllt dein selfbot haben xD?
+[06.06.2017 | 17:53:26] @naix:   einfach nur addLoggingChannel(args[1]);
+[06.06.2017 | 17:53:28] @naix:   nene 😃
+[06.06.2017 | 17:53:31] @naix:   der bleibt privat 😃
+[06.06.2017 | 17:53:50] @The Skool:   -.-
+[06.06.2017 | 17:53:53] @The Skool:   och mist xD
+[06.06.2017 | 17:54:14] @naix:   `addLoggingChannel` prüft sogar ob der channel existiert, ob der input aus zahlen besteht etc
+[06.06.2017 | 17:54:16] @naix:   😃
+[06.06.2017 | 17:54:33] @The Skool:   -.-
+[06.06.2017 | 17:54:38] @naix:   :3
+[06.06.2017 | 17:56:18] @The Skool:   mein kollege würde jetzt sagen.
+[06.06.2017 | 17:56:21] @The Skool:   scheiss ego
+[06.06.2017 | 17:56:22] @The Skool:   xd
+[06.06.2017 | 17:57:15] @naix:   ich helfe ja gern aber den ganzen code rück ich nicht raus :lul:
+[06.06.2017 | 17:58:02] @The Skool:   -.- xD
+[06.06.2017 | 17:59:25] @The Skool:   schon gut  @🌠 naix ich will doch nur das du mir hilfst? xD
+[06.06.2017 | 18:00:57] @Annondir:   "hilfst" xD
+[06.06.2017 | 18:01:39] @The Skool:   -.-
+[06.06.2017 | 18:02:01] @naix:   ist das pinzip gut so? xd
+
+http://p.naix.pro/naix-17c06a06f187-261.png
+[06.06.2017 | 18:03:30] @naix:   `/log get [@name, userId, Integer]`
+Soll heißen dass man entweder @user, userId oder eine zahl eingeben kann
+[06.06.2017 | 18:04:18] @The Skool:   frage
+[06.06.2017 | 18:04:39] @The Skool:   kannst du mir nur den anfangs code geben? xD
+[06.06.2017 | 18:04:51] @naix:   welchen anfangs code?
+[06.06.2017 | 18:05:05] @The Skool:   womit du du angefangen hast xD
+[06.06.2017 | 18:05:22] @The Skool:   ich weiss net ob du eine main klasse gemacht hast
+[06.06.2017 | 18:05:31] @naix:   ich hab alles xd
+[06.06.2017 | 18:05:43] @naix:   http://p.naix.pro/naix-17d061060187-262.png
+[06.06.2017 | 18:06:45] @The Skool:   ich brauch nur den anfangs code von der main womit der sich überhaupt verbindet mit der acc xD
+[06.06.2017 | 18:07:25] @Annondir:   Ist die ganz normale wie beim normalen Bot
+[06.06.2017 | 18:07:32] @The Skool:   -.-
+[06.06.2017 | 18:08:43] @naix:   ja xd habs selber wie beim tutorial von zekro 😃
+[06.06.2017 | 18:10:35] @naix:   Bin grad hyped des todes 😍
+[06.06.2017 | 18:10:46] @naix:   Hab grad mein vertrag bei telekom aufgestockt
+[06.06.2017 | 18:12:03] @Annondir:   was hast du jetzt und was hattest du davor?
+[06.06.2017 | 18:12:28] @naix:   davor nur den lapprigen Magenta S vertrag, jetzt Magenta M mit Apple Music und StreamOn
+[06.06.2017 | 18:12:46] @Annondir:   ui *-*
+[06.06.2017 | 18:12:51] @Annondir:   +_+
+[06.06.2017 | 18:26:27] @The Skool:   @🌠 naix wie ist telekom?

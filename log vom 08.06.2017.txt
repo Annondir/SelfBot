@@ -1,0 +1,12 @@
+[08.06.2017 | 00:20:18] @Annondir:   !log create
+[08.06.2017 | 00:20:33] @Skillkiller:   Hm schade. Aber du meinst das kann ungefähr passen. Nicht das meine Zähl Funktion noch einen Fehler hat
+[08.06.2017 | 00:21:11] @Skillkiller:   Ich wurde seit gestern 21 mal erwähnt 😂 und alle Erwähnungen nur hier in dem Chat...
+[08.06.2017 | 00:21:11] @naix:   log, schreib eine nachrich, log
+[08.06.2017 | 00:21:26] @Skillkiller:   ?
+[08.06.2017 | 00:21:48] @naix:   mach /commands.stats oder was auch immer dein befehl dafür ist, schreib eine nachricht und mach wieder /commands.stats
+[08.06.2017 | 00:21:55] @naix:   dann siehst du ob der logger +1 gezählt hat
+[08.06.2017 | 00:22:29] @Skillkiller:   Achso. Ja also bis 30 habe ich es mal simuliert gestern und da gab es keine Fehler nur das die jetzt auf einmal so hoch ist hat mich gewundert 😃
+[08.06.2017 | 00:22:54] @naix:   ne sollte so passen weil z.b.
+[08.06.2017 | 00:22:59] @naix:   /log list
+[08.06.2017 | 00:23:00] @naix:   
+[08.06.2017 | 00:23:08] @naix:   sind 2 nachrichten die sich selber löschen

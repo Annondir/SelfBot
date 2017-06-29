@@ -1,0 +1,8 @@
+[12.06.2017 | 22:08:22] @OctolexGaming [323129514051764225] :   Wieso machen Schneemänner keine Spuren mehr?
+[12.06.2017 | 22:08:38] @OctolexGaming [323129514051764225] :   Ist das ein Bug? Sinn macht es nämlich nicht
+[12.06.2017 | 22:09:05] @w4rl0rd [218815554696380417] :   Es ist schon seit der 1.9 so, weil Mojang fand, dass der Schnee als MobGriefing zählt
+[12.06.2017 | 22:10:07] @OctolexGaming [323129514051764225] :   Pff
+[12.06.2017 | 22:10:11] @OctolexGaming [323129514051764225] :   Was für Idioten
+[12.06.2017 | 22:10:34] @OctolexGaming [323129514051764225] :   Kann man das nicht bei WorldGuard einstellen?
+[12.06.2017 | 23:08:30] @OctolexGaming [323129514051764225] :   Kann man das Scoreboard ausschalten?
+[12.06.2017 | 23:18:06] @plamencia [186053677977436162] :   https://s-media-cache-ak0.pinimg.com/736x/77/5e/98/775e982e7ae0ee2e2d332624893553e1.jpg

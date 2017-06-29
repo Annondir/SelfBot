@@ -1,0 +1,257 @@
+[07.06.2017 | 01:35:44] @Annondir [285510544532832258] :   !log create
+[07.06.2017 | 01:38:43] @naix [200627281817763840] :   /bash sh update.sh
+[07.06.2017 | 01:39:03] @naix [200627281817763840] :   /d 10
+[07.06.2017 | 01:39:16] @naix [200627281817763840] :   _d 10
+[07.06.2017 | 01:39:28] @naix [200627281817763840] :   _prop set prefix /
+[07.06.2017 | 01:39:28] @naix [200627281817763840] :   
+[07.06.2017 | 01:39:30] @naix [200627281817763840] :   /d
+[07.06.2017 | 01:39:33] @naix [200627281817763840] :   fuck
+[07.06.2017 | 01:39:36] @naix [200627281817763840] :   es geht nicht
+[07.06.2017 | 01:39:38] @Annondir [285510544532832258] :   ?
+[07.06.2017 | 01:39:49] @naix [200627281817763840] :   ich msus den bot immer restarten wenn ich das prefix ändere
+[07.06.2017 | 01:40:16] @Annondir [285510544532832258] :   :/
+[07.06.2017 | 01:41:29] @naix [200627281817763840] :   /bash sh restart.sh
+[07.06.2017 | 01:41:33] @naix [200627281817763840] :   /d
+[07.06.2017 | 01:41:36] @naix [200627281817763840] :   _d 2
+[07.06.2017 | 01:41:44] @naix [200627281817763840] :   _bash sh restart.sh
+[07.06.2017 | 01:41:44] @naix [200627281817763840] :   ``````
+[07.06.2017 | 01:42:01] @naix [200627281817763840] :   /d
+[07.06.2017 | 01:42:36] @Skillkiller [98719514908188672] :   `` String[] ids = files[i].getName().split("#");String id = ids[1];```
+Wie kann ich das in einer Zeile zusammfassen
+[07.06.2017 | 02:05:51] @naix [200627281817763840] :   gar nicht glaub ich
+[07.06.2017 | 02:09:56] @naix [200627281817763840] :   passt doch so
+[07.06.2017 | 02:10:31] @naix [200627281817763840] :   /bash sh update.sh
+[07.06.2017 | 02:11:13] @naix [200627281817763840] :   /bash ls
+[07.06.2017 | 02:11:13] @naix [200627281817763840] :   ```NodeJS
+restart.sh
+selfbot
+speedtest.py
+start.sh
+stop.sh
+update.sh
+```
+[07.06.2017 | 02:11:13] @naix [200627281817763840] :   /d
+[07.06.2017 | 02:11:26] @naix [200627281817763840] :   /prop set prefix ?
+[07.06.2017 | 02:11:27] @naix [200627281817763840] :   
+[07.06.2017 | 02:11:31] @naix [200627281817763840] :   ?d
+[07.06.2017 | 02:12:01] @naix [200627281817763840] :   /d
+[07.06.2017 | 02:12:06] @naix [200627281817763840] :   /d 2
+[07.06.2017 | 02:12:16] @naix [200627281817763840] :   /prop set prefix .
+[07.06.2017 | 02:12:16] @naix [200627281817763840] :   
+[07.06.2017 | 02:12:36] @naix [200627281817763840] :   .prop set prefix /
+[07.06.2017 | 02:12:36] @naix [200627281817763840] :   
+[07.06.2017 | 02:12:56] @naix [200627281817763840] :   ich kann mein prefix während der bot läuft ändern
+[07.06.2017 | 02:13:12] @Annondir [285510544532832258] :   **ICH HASSE .queue** xD
+[07.06.2017 | 02:13:22] @Skillkiller [98719514908188672] :   Ich habe versucht meinen Code zu vereinfachen.. aus 60 Zeilen wurden 104
+[07.06.2017 | 02:13:41] @naix [200627281817763840] :   xd hab mein code vereinfacht, aus 400 wurden ca 200
+[07.06.2017 | 12:18:19] @Annondir [285510544532832258] :   Jetzt brauch ich langsam wirklich nen Server, sonst bringt der Logger ja garnix xD
+[07.06.2017 | 12:18:42] @The Skool [286521349025955840] :   kauf dir einen pi
+[07.06.2017 | 12:19:03] @The Skool [286521349025955840] :   oder hast du einen alten pc?
+[07.06.2017 | 12:19:03] @Annondir [285510544532832258] :   Hab ich auch vor, sobald ich gespart hab xD
+[07.06.2017 | 12:19:14] @Annondir [285510544532832258] :   Nö, leider keinen alten PC D:
+[07.06.2017 | 12:19:48] @The Skool [286521349025955840] :   könntest sonst darüber deinen selfbot laufen lassen
+[07.06.2017 | 13:40:30] @The Skool [286521349025955840] :   @🌠 naix @Skillkiller ihr hant mein discord gebugt -.-
+[07.06.2017 | 13:40:30] @The Skool [286521349025955840] :   habt
+[07.06.2017 | 13:40:53] @Annondir [285510544532832258] :   xD
+[07.06.2017 | 13:40:59] @naix [200627281817763840] :   wie denn
+[07.06.2017 | 13:41:22] @The Skool [286521349025955840] :   dieses fucking zeichen -.-
+[07.06.2017 | 13:41:54] @naix [200627281817763840] :   Komisches Handy [idc] bei mir geht alles am handy und am pc
+[07.06.2017 | 13:41:59] @The Skool [286521349025955840] :   
+[07.06.2017 | 13:42:02] @The Skool [286521349025955840] :   [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅] damit -.-
+[07.06.2017 | 13:43:13] @The Skool [286521349025955840] :   das ist doch net normal -.-
+[07.06.2017 | 13:44:02] @Annondir [285510544532832258] :   Man kann diesen String doch bestimmt iwie Public machen, oder?
+```String nachricht = event.getMessage().getContent();
+```
+event ist ein MessageRecivedEvent
+[07.06.2017 | 14:28:30] @The Skool [286521349025955840] :   -.- ernsthaft @⭐  ゼクロ  (zekro)  du jetzt auch ? -.-
+[07.06.2017 | 14:28:44] @Annondir [285510544532832258] :   xD
+[07.06.2017 | 14:29:03] @The Skool [286521349025955840] :   ihr bugt mein discord -.-
+[07.06.2017 | 14:38:49] @naix [200627281817763840] :   [billy]
+[07.06.2017 | 14:39:04] @Annondir [285510544532832258] :   [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
+[07.06.2017 | 14:42:54] @zekro [221905671296253953] :   :lul: 😄
+[07.06.2017 | 14:43:24] @naix [200627281817763840] :   Also ich weiß nich wie das buggs im client verursachen sollte 🤔
+[07.06.2017 | 14:49:31] @The Skool [286521349025955840] :   -.-
+[07.06.2017 | 14:49:52] @The Skool [286521349025955840] :   es bleibt einfach für kurze zeit im screen hängen -.-
+[07.06.2017 | 14:50:02] @Annondir [285510544532832258] :   xD
+[07.06.2017 | 14:50:05] @naix [200627281817763840] :   auf welchem gerät? xd
+[07.06.2017 | 14:50:39] @The Skool [286521349025955840] :   samsung -.-
+[07.06.2017 | 14:50:49] @naix [200627281817763840] :   Samsung ist eine Firma, kein Gerät
+[07.06.2017 | 14:50:49] @Annondir [285510544532832258] :   Hab ich auch xD
+[07.06.2017 | 14:51:10] @The Skool [286521349025955840] :   samsung halt
+[07.06.2017 | 14:51:12] @The Skool [286521349025955840] :   -.-
+[07.06.2017 | 14:51:16] @Annondir [285510544532832258] :   xd
+[07.06.2017 | 14:51:34] @The Skool [286521349025955840] :   samsung galaxy SIII mini -.-
+[07.06.2017 | 14:51:47] @naix [200627281817763840] :   xd bleibt das auch kurz hängen:
+[07.06.2017 | 14:51:53] @naix [200627281817763840] :   [rageflip]
+[07.06.2017 | 14:51:56] @naix [200627281817763840] :   lol
+[07.06.2017 | 14:51:59] @naix [200627281817763840] :   /d 2
+[07.06.2017 | 14:52:03] @naix [200627281817763840] :   [rageflip]
+[07.06.2017 | 14:52:18] @The Skool [286521349025955840] :   -.- noch nicht
+[07.06.2017 | 14:52:33] @naix [200627281817763840] :   [007]
+[07.06.2017 | 14:52:36] @naix [200627281817763840] :   das?
+[07.06.2017 | 14:53:38] @The Skool [286521349025955840] :   -.-
+[07.06.2017 | 14:53:49] @The Skool [286521349025955840] :   :zzz:
+[07.06.2017 | 14:53:49] @naix [200627281817763840] :   ja oder nein
+[07.06.2017 | 14:55:18] @The Skool [286521349025955840] :   -.- ja
+[07.06.2017 | 14:57:39] @naix [200627281817763840] :   dann liegt das aber am gerät [shrug]
+[07.06.2017 | 14:58:02] @naix [200627281817763840] :   http://p.naix.pro/naix-17106c072146-277.png mal schauen ob man da was vereinfachen kann :>
+[07.06.2017 | 15:14:47] @The Skool [286521349025955840] :   ``` public class Arrays {
+
+	public static void main(String[] args) {
+		int[] array1;
+		array1 = new int[3];
+		array1[0] = 7;
+		array1[1] = 42;
+		array1[2] = 1337;
+
+		System.out.println(array1[0]);
+		
+		int int1 = 3;
+		int int2 = 4;
+		int2 = int1;
+		int2 = 5;
+		System.out.println(int1);
+		
+		int[] array2;
+		array2 = new int[3];
+		array2[0] = 14;
+		System.out.println(array1[0]);
+		
+		String[] sArray = new String[3];
+		sArray[0] = "Peter";
+		sArray[1] = "Paul";
+		sArray[2] = "Frank";
+		System.out.println(sArray[0] + " hat " + array1[0] + " Geld.");
+
+	}
+
+}
+```
+was ist das? -.-
+[07.06.2017 | 15:15:26] @naix [200627281817763840] :   simple arraylists xd
+[07.06.2017 | 15:16:19] @The Skool [286521349025955840] :   ja das hab ich grade gelesen -.-
+[07.06.2017 | 15:16:33] @The Skool [286521349025955840] :   aber warum hab ich das auf dem handy? -.-
+[07.06.2017 | 15:17:00] @naix [200627281817763840] :   das "-.-" triggert absolut, ist eigentlich ein smiley der symbolisiert "angepisst" zu sein
+[07.06.2017 | 15:17:49] @The Skool [286521349025955840] :   yep bin ich auch grade -.-
+[07.06.2017 | 15:18:08] @naix [200627281817763840] :   weil du eine datei auf dem handy hast, die DU da abgespeichert hast?
+[07.06.2017 | 15:18:18] @The Skool [286521349025955840] :   nein -.-
+[07.06.2017 | 15:20:21] @The Skool [286521349025955840] :   ich muss mir gedanken macjen wie ich 610/3050€ bezahlen muss -.-
+[07.06.2017 | 15:20:33] @naix [200627281817763840] :   neuer pc?
+[07.06.2017 | 15:20:56] @The Skool [286521349025955840] :   -.- nein
+[07.06.2017 | 15:21:15] @naix [200627281817763840] :   führerschein?
+[07.06.2017 | 15:21:33] @The Skool [286521349025955840] :   mit 15 ? -.-
+[07.06.2017 | 15:21:41] @naix [200627281817763840] :   ja? A1?
+[07.06.2017 | 15:21:46] @The Skool [286521349025955840] :   ich hab was kapput gemacht -.-
+[07.06.2017 | 15:22:07] @The Skool [286521349025955840] :   kp ich will sowieso kein führerschein -.-
+[07.06.2017 | 15:23:11] @naix [200627281817763840] :   Dann viel spaß ^^
+[07.06.2017 | 15:23:26] @The Skool [286521349025955840] :   -.-
+[07.06.2017 | 15:30:19] @naix [200627281817763840] :   Ich arbeite gerade an einem Mute command
+[07.06.2017 | 15:30:32] @naix [200627281817763840] :   für zekrobot xd
+[07.06.2017 | 15:30:35] @naix [200627281817763840] :   evtl ist es ja gut genug
+[07.06.2017 | 15:30:58] @AveronTV [170815084271108096] :   das Mute command kann auch Admin im Music channel muten ?
+[07.06.2017 | 15:31:17] @naix [200627281817763840] :   mute command -> nicht mehr schreiben
+[07.06.2017 | 15:31:38] @The Skool [286521349025955840] :   ich denke eher an das prinzip vom Mee6 bot
+[07.06.2017 | 15:32:12] @AveronTV [170815084271108096] :   aso
+[07.06.2017 | 15:34:12] @naix [200627281817763840] :   was könnte man noch loggen 🤔 
+Hab jetzt den Grund und von wem jemand gemutet wurde
+[07.06.2017 | 15:34:42] @AveronTV [170815084271108096] :   maybe ein verwarnung
+[07.06.2017 | 15:34:45] @AveronTV [170815084271108096] :   xD
+[07.06.2017 | 15:35:02] @The Skool [286521349025955840] :   ein gemutet sein auf zeitdauer
+[07.06.2017 | 15:35:34] @naix [200627281817763840] :   ^ ist für den anfang zu viel aufwand
+[07.06.2017 | 15:35:53] @naix [200627281817763840] :   müsste dann jede minute ein check laufen lassen ob jemand entmutet werden soll
+[07.06.2017 | 15:36:31] @The Skool [286521349025955840] :   jaa sehr toll -.-
+[07.06.2017 | 15:37:52] @The Skool [286521349025955840] :   @🌠 naix oder wenigstens von wann bis wann man gemutet ist (kann ja manuell entmuten)
+[07.06.2017 | 15:38:54] @naix [200627281817763840] :   du tust so als ob man wenn man einmal per command gemutet wird nie wieder entmutet wird
+[07.06.2017 | 15:38:56] @naix [200627281817763840] :   ..
+[07.06.2017 | 15:39:46] @The Skool [286521349025955840] :   -.-
+[07.06.2017 | 15:42:36] @The Skool [286521349025955840] :   @🌠 naix das ist  das schlimmste auf erden
+[07.06.2017 | 18:03:07] @Skillkiller [98719514908188672] :   @🌠 naix du kannst auch einen Mute auf zeit machen und immer nur dann prüfen ob der Mute schon abgelaufen ist wenn er was schreibt. Dann musst du nicht jede Minute abfragen
+[07.06.2017 | 18:03:42] @naix [200627281817763840] :   Mute gibt die rolle `Muted` die keine rechte hat zu schreiben
+[07.06.2017 | 18:04:41] @Skillkiller [98719514908188672] :   Ah... Ja macht Sinn
+[07.06.2017 | 18:26:23] @The Skool [286521349025955840] :   hab ein batch zu exe converter gefunden wtf xD
+[07.06.2017 | 18:40:20] @Annondir [285510544532832258] :   [happy]
+[07.06.2017 | 18:40:43] @naix [200627281817763840] :   [wtf]
+[07.06.2017 | 18:40:49] @naix [200627281817763840] :   hab ich nich eingebaut xd
+[07.06.2017 | 18:40:53] @Annondir [285510544532832258] :   xD
+[07.06.2017 | 18:40:53] @naix [200627281817763840] :   bzw nich updated x)
+[07.06.2017 | 18:40:57] @naix [200627281817763840] :   /d 3
+[07.06.2017 | 20:15:29] @Annondir [285510544532832258] :   Ich hab herausgefunden warum in der Console jede Nachricht so oft angezeigt wird, hab folgendes in jedem Listener stehen
+```    System.out.println(event.getMessage().getContent());
+```
+[07.06.2017 | 20:41:02] @The Skool [286521349025955840] :   xD
+[07.06.2017 | 20:41:17] @Annondir [285510544532832258] :   Dafür gehöre ich echt geschlagen xD
+[07.06.2017 | 20:41:24] @Annondir [285510544532832258] :   [sad]
+[07.06.2017 | 20:41:54] @The Skool [286521349025955840] :   Papi!! der  @Annondir möchte mal geschlagen werden xd
+[07.06.2017 | 20:42:03] @Annondir [285510544532832258] :   xD
+[07.06.2017 | 20:42:07] @Annondir [285510544532832258] :   !messages
+[07.06.2017 | 20:42:07] @Annondir [285510544532832258] :   185
+[07.06.2017 | 20:56:04] @The Skool [286521349025955840] :   1messages
+[07.06.2017 | 20:56:11] @The Skool [286521349025955840] :   !messages
+[07.06.2017 | 20:57:06] @Annondir [285510544532832258] :   !messages
+[07.06.2017 | 20:57:07] @Annondir [285510544532832258] :   189
+[07.06.2017 | 21:15:19] @The Brandy [286521349025955840] :   @Annondir wie hast du dein logger command gemacht?^^
+[07.06.2017 | 21:15:50] @Annondir [285510544532832258] :   Der der die Anzahl der Nachrichten ausgibt?
+[07.06.2017 | 21:19:05] @The Brandy [286521349025955840] :   der die nachrichten loggt halt ^^
+[07.06.2017 | 21:23:13] @Annondir [285510544532832258] :   https://paste.ee/p/mzSgy
+hier wird mit ```!log create``` ein Log erstellt
+[07.06.2017 | 21:24:10] @Annondir [285510544532832258] :   und dann halt normales loggen xD
+https://paste.ee/p/HdIHC
+[07.06.2017 | 21:25:26] @Annondir [285510544532832258] :   Is bisher aber nur Channelweites loggen
+[07.06.2017 | 21:34:18] @The Brandy [286521349025955840] :   global? hast du nicht?
+[07.06.2017 | 21:34:44] @Annondir [285510544532832258] :   Noch nicht xD
+[07.06.2017 | 22:35:13] @Skillkiller [98719514908188672] :   Oh du arbeitest mit der Pasteee API
+[07.06.2017 | 22:35:27] @Annondir [285510544532832258] :   Nö xD
+[07.06.2017 | 22:35:41] @Skillkiller [98719514908188672] :   ☹
+[07.06.2017 | 22:37:45] @Annondir [285510544532832258] :   Und ich hab global stats
+[07.06.2017 | 22:37:49] @Annondir [285510544532832258] :   [happy]
+[07.06.2017 | 22:37:58] @Annondir [285510544532832258] :   !messages global
+[07.06.2017 | 22:38:23] @Snowi [234667046993002496] :   weiss jemand wie man den Bot eine Servergruppe erwähnen lässt?
+[07.06.2017 | 22:41:17] @Annondir [285510544532832258] :   So weiß ich es grad nicht aber ich schau mal
+[07.06.2017 | 22:43:55] @Annondir [285510544532832258] :   Du kannst
+```
+event.getTextchannel().sendMessage("@<Servergruppe>").queue;
+```
+machen xD
+[07.06.2017 | 22:45:01] @Snowi [234667046993002496] :   ok mal schauen ob das klappt
+[07.06.2017 | 22:45:48] @Annondir [285510544532832258] :   Geht, habs getestet. das
+```
+<Servergruppe>
+```
+natürlich durch den Namen der Servergruppe ersetzen.
+[07.06.2017 | 23:04:20] @Annondir [285510544532832258] :   Die Klammer um das "@Team" muss weg
+[07.06.2017 | 23:06:00] @Annondir [285510544532832258] :   Muss so aussehen
+```
+public void onGuildVoiceJoin(GuildVoiceJoinEvent event) {
+        if (event.getChannelJoined().getId().equals(/"241283912729493504"/"270174836628652040")) {
+            event.getGuild().getTextChannelsByName("test1", true).get(0).sendMessage(
+                    "@Team " + event.getVoiceState().getMember().getUser().getName() + " joined " + event.getChannelJoined().getName() + ".").queue();
+        } else {
+
+        }
+```
+[07.06.2017 | 23:06:19] @Snowi [234667046993002496] :   ok
+[07.06.2017 | 23:11:18] @Snowi [234667046993002496] :   
+[07.06.2017 | 23:11:36] @Annondir [285510544532832258] :   o.O
+[07.06.2017 | 23:11:59] @Snowi [234667046993002496] :   Ja genau so bin ich auch am schauen ?
+[07.06.2017 | 23:12:35] @Annondir [285510544532832258] :   ```
+public void onGuildVoiceJoin(GuildVoiceJoinEvent event) {
+        if (event.getChannelJoined().getId().equals(/"241283912729493504"/"270174836628652040")) {
+            event.getGuild().getTextChannelsByName("test1", true).get(0).sendMessage(
+                    "@Team" + " " + event.getVoiceState().getMember().getUser().getName() + " joined " + event.getChannelJoined().getName() + ".").queue();
+        } else {
+
+        }
+```
+mach das mal
+[07.06.2017 | 23:14:11] @Snowi [234667046993002496] :   da ist jetzt nur noch ein Leerzeichen mehr dazwischen
+[07.06.2017 | 23:14:31] @Annondir [285510544532832258] :   ich wei�, dachte es liegt daran, tut es aber nicht xD
+[07.06.2017 | 23:16:10] @Annondir [285510544532832258] :   Man kann gar keine Rollen erw�hnen o.O
+[07.06.2017 | 23:16:53] @Snowi [234667046993002496] :   das obere ist doch aber erw�hnt
+[07.06.2017 | 23:16:54] @Annondir [285510544532832258] :   Ok, doch kann man. Warum kann ich das nicht auf meinem Testserver?
+[07.06.2017 | 23:17:22] @Snowi [234667046993002496] :   Weil die Rolle nicht richtig eingestellt ist
+[07.06.2017 | 23:24:24] @Annondir [285510544532832258] :   Stimmt xD
+Aber warum geht das nicht...
+[07.06.2017 | 23:30:37] @Annondir [285510544532832258] :   MAAAAAAAAAN. Warum geht das nicht
+[07.06.2017 | 23:30:39] @Annondir [285510544532832258] :   [rage}
+[07.06.2017 | 23:30:48] @Annondir [285510544532832258] :   [rage]
+[07.06.2017 | 23:30:55] @Annondir [285510544532832258] :   [ragequit]

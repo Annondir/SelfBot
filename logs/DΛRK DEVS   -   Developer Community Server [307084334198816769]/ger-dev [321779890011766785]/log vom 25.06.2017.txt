@@ -1,0 +1,4 @@
+[25.06.2017 | 17:43:01] @zekro [221905671296253953] :   @ManuGun kommt das beim Debuggen in intelliJ oder beim ausfÃ¼hren der Artifacts?
+[25.06.2017 | 20:28:59] @Skillkiller [98719514908188672] :   Wieviele ihren Logger auf File Basis haben  ?
+[25.06.2017 | 20:29:40] @Annondir [285510544532832258] :   ? Weil ich keine ahnugn von db hab xD
+[25.06.2017 | 20:34:51] @Annondir [285510544532832258] :   Ich bin zu dumm dafür xD Dann lass ich den Bot halt mit Powershell laufen xD

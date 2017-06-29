@@ -1,0 +1,105 @@
+[13.06.2017 | 17:25:25] @Lord Nightcore [315499915851857922] :   jup
+[13.06.2017 | 17:25:42] @AveronTV [170815084271108096] :   hab ich gemacht, bringt aber nichts
+[13.06.2017 | 17:26:59] @Lord Nightcore [315499915851857922] :   fahr mal mit der maus drüber aber klick nichts an und send nen screen
+[13.06.2017 | 17:27:44] @Skillkiller [98719514908188672] :   Aber wenn es null ist weißt du wenigstens wann ein Error ausgelöst wurde ?
+[13.06.2017 | 17:28:03] @Skillkiller [98719514908188672] :   Lade mal deine gesamte Class auf Pastebin, Hastebin, Gist mir egal
+[13.06.2017 | 17:29:28] @AveronTV [170815084271108096] :   https://pastebin.com/ywXV7PKB
+[13.06.2017 | 17:42:30] @zekro [221905671296253953] :   Arbeite momentan btw daran, den -dev command in den @?? Knecht zu porten ^^
+[13.06.2017 | 17:42:32] @zekro [221905671296253953] :   ;dev java html css c# ficke lel xd
+[13.06.2017 | 17:42:33] @devBot [287538435655204864] :   
+[13.06.2017 | 17:43:09] @AveronTV [170815084271108096] :   wer hat grad bock irgendwas zu spiele ^^
+[13.06.2017 | 17:43:21] @AveronTV [170815084271108096] :   hab CSGO und Minecraft und andere spiele
+[13.06.2017 | 18:01:51] @Front. [318773753796624394] :   GTA?
+[13.06.2017 | 18:02:12] @TheDeepSpacer [161855472926720001] :   yeah
+[13.06.2017 | 18:02:17] @Front. [318773753796624394] :   SC Name?
+[13.06.2017 | 18:02:28] @TheDeepSpacer [161855472926720001] :   same like here
+[13.06.2017 | 18:02:51] @Front. [318773753796624394] :   Okay, kleinen moment
+[13.06.2017 | 18:02:59] @TheDeepSpacer [161855472926720001] :   kein problem
+[13.06.2017 | 18:03:09] @TheDeepSpacer [161855472926720001] :   hab aber kein money mer -150millionen xD
+[13.06.2017 | 18:03:47] @Front. [318773753796624394] :   Hab zum Glück noch
+[13.06.2017 | 18:04:28] @Front. [318773753796624394] :   Hab dir ne Anfrage geschickt
+[13.06.2017 | 18:06:01] @TheDeepSpacer [161855472926720001] :   angenommen
+[13.06.2017 | 18:06:21] @Front. [318773753796624394] :   Joinst du mir nach?
+[13.06.2017 | 18:06:26] @TheDeepSpacer [161855472926720001] :   j
+[13.06.2017 | 18:06:42] @TheDeepSpacer [161855472926720001] :   geht grad noch nicht
+[13.06.2017 | 18:06:51] @Front. [318773753796624394] :   Jo, joine selbst noch
+[13.06.2017 | 18:07:00] @TheDeepSpacer [161855472926720001] :   asu xD
+[13.06.2017 | 18:07:06] @Front. [318773753796624394] :   xD
+[13.06.2017 | 18:07:16] @TheDeepSpacer [161855472926720001] :   :papaF: Ich bin eben ein PRofi
+[13.06.2017 | 18:07:23] @Front. [318773753796624394] :   Jetzt
+[13.06.2017 | 18:10:10] @TheDeepSpacer [161855472926720001] :   lad ma in orga ein
+[13.06.2017 | 18:10:14] @Front. [318773753796624394] :   lass am Flughafen treffen
+[13.06.2017 | 18:12:28] @Front. [318773753796624394] :   Oder nein, wir fahren zu meinem Bunker
+[13.06.2017 | 18:12:39] @TheDeepSpacer [161855472926720001] :   warte ma kurz lass talk
+[13.06.2017 | 18:21:34] @naix [200627281817763840] :   hat hier jemand JS skills?
+[13.06.2017 | 18:30:38] @zekro [221905671296253953] :   ;dev java css lel
+[13.06.2017 | 18:30:38] @devBot [287538435655204864] :   
+[13.06.2017 | 18:30:39] @devBot [287538435655204864] :   
+[13.06.2017 | 18:31:04] @zekro [221905671296253953] :   ;dev css html lel
+[13.06.2017 | 18:31:04] @devBot [287538435655204864] :   
+[13.06.2017 | 18:31:17] @naix [200627281817763840] :   ich kann aber lel programmieren
+[13.06.2017 | 18:31:20] @zekro [221905671296253953] :   ups falscher channel ?
+[13.06.2017 | 18:44:59] @AveronTV [170815084271108096] :   @?  ???  (zekro)
+[13.06.2017 | 19:20:48] @TheDeepSpacer [161855472926720001] :   ich bin zu doof für git hub wie kann ich jetzt den zekrbot herunteladen dass ich ihn bearbeiten kann?
+[13.06.2017 | 19:21:23] @naix [200627281817763840] :   
+[13.06.2017 | 19:58:07] @Lord Nightcore [315499915851857922] :   kann ich iwie den bot mit der -jar über mein handy lauifen lassen, asl notlösung?
+[13.06.2017 | 20:00:56] @The Brandy [286521349025955840] :   nop
+[13.06.2017 | 20:01:03] @The Brandy [286521349025955840] :   geht leider net^^
+[13.06.2017 | 20:01:30] @naix [200627281817763840] :   doch sollte eigentlich bei samsung funktionieren ?
+[13.06.2017 | 20:01:42] @naix [200627281817763840] :   bei anderen herstellern weiß ich es nicht
+[13.06.2017 | 20:02:16] @The Brandy [286521349025955840] :   Nee xD
+[13.06.2017 | 20:02:24] @naix [200627281817763840] :   doch kenne sogar einen der das macht lol
+[13.06.2017 | 20:02:29] @The Brandy [286521349025955840] :   Du kannst die net starten
+[13.06.2017 | 20:02:36] @The Brandy [286521349025955840] :   Wie wo was?
+[13.06.2017 | 20:02:52] @naix [200627281817763840] :   Ein amerikaner von nem anderen discord
+[13.06.2017 | 20:02:57] @The Brandy [286521349025955840] :   xD
+[13.06.2017 | 20:03:36] @The Brandy [286521349025955840] :   Aber dann muss der ne App dafür oder so haben xD
+[13.06.2017 | 20:07:36] @Lord Nightcore [315499915851857922] :   sag mal an
+[13.06.2017 | 20:07:41] @Lord Nightcore [315499915851857922] :   bitte
+[13.06.2017 | 20:11:30] @naix [200627281817763840] :   !lmgtfy google|android jar datei ausführen
+[13.06.2017 | 20:11:39] @naix [200627281817763840] :   der bot geht nicht :lul:
+[13.06.2017 | 20:11:56] @naix [200627281817763840] :   /d 2
+[13.06.2017 | 20:12:24] @naix [200627281817763840] :   https://www.google.de/search?client=opera&q=android+jar+datei+ausführen&sourceid=opera&ie=UTF-8&oe=UTF-8
+[13.06.2017 | 20:13:22] @Lord Nightcore [315499915851857922] :   thx
+[13.06.2017 | 20:59:27] @????????? [257905689249185792] :   hab jetzt ein PB :)
+[13.06.2017 | 20:59:32] @????????? [257905689249185792] :   wie gefällt es euch?
+[13.06.2017 | 21:11:38] @The Brandy [286521349025955840] :   @Schüler nice nice^^
+[13.06.2017 | 21:20:27] @The Brandy [286521349025955840] :   @Lord Nightcore SAO fan xD
+[13.06.2017 | 21:20:56] @Lord Nightcore [315499915851857922] :   how have you found out ;D
+[13.06.2017 | 21:21:13] @The Brandy [286521349025955840] :   ich bin selber sao fan xD
+[13.06.2017 | 21:22:06] @The Brandy [286521349025955840] :   Kirito xd
+[13.06.2017 | 21:23:27] @AveronTV [170815084271108096] :   Ist hier jmd Designer ?
+[13.06.2017 | 21:23:39] @The Brandy [286521349025955840] :   In wie fern?
+[13.06.2017 | 21:23:53] @Lord Nightcore [315499915851857922] :   ja bin ich ?
+[13.06.2017 | 21:23:59] @Lord Nightcore [315499915851857922] :   deswegen auch der bot name etc
+[13.06.2017 | 21:24:00] @AveronTV [170815084271108096] :   Banner und PB erstellen kann ?
+[13.06.2017 | 21:24:22] @Lord Nightcore [315499915851857922] :   SAO is mein 1st-genannter anime wenns um favoriten geht
+[13.06.2017 | 21:24:32] @Lord Nightcore [315499915851857922] :   ja könnt ich machen
+[13.06.2017 | 21:24:36] @Lord Nightcore [315499915851857922] :   @AveronTV
+[13.06.2017 | 21:24:38] @The Brandy [286521349025955840] :   <-- Elfenlied xD
+[13.06.2017 | 21:25:21] @The Brandy [286521349025955840] :   ich war grad iwie bei webseiten xD
+[13.06.2017 | 21:25:30] @Lord Nightcore [315499915851857922] :   lass mal pm schreiben wenn du willst
+[13.06.2017 | 21:25:36] @Lord Nightcore [315499915851857922] :   muss jz essen bb
+[13.06.2017 | 21:25:53] @The Brandy [286521349025955840] :   xD
+[13.06.2017 | 21:25:58] @The Brandy [286521349025955840] :   meinst du mich xD?
+[13.06.2017 | 21:26:17] @Lord Nightcore [315499915851857922] :   jup. muss jz bin später wieder da
+[13.06.2017 | 21:26:29] @The Brandy [286521349025955840] :   Kay xD
+[13.06.2017 | 21:28:29] @The Brandy [286521349025955840] :   @AveronTV hab zwar keine ahnung was du bestimmtes willst aber ich könnte es versuchen xD
+[13.06.2017 | 21:28:57] @AveronTV [170815084271108096] :   es ging um mein YouTube kanal
+[13.06.2017 | 21:29:31] @The Brandy [286521349025955840] :   xD
+[13.06.2017 | 21:29:59] @The Brandy [286521349025955840] :   Hast du ne ordentliche ausrüstung so als nebenbei frage? D
+[13.06.2017 | 21:30:20] @AveronTV [170815084271108096] :   Ausrüstung ?
+[13.06.2017 | 21:30:52] @The Brandy [286521349025955840] :   Mircofon,Pc sowas halt xD
+[13.06.2017 | 21:30:58] @AveronTV [170815084271108096] :   Ja
+[13.06.2017 | 21:32:07] @The Brandy [286521349025955840] :   Ich warte noch ein paar jahre bevor ich mit YT anfange xD
+[13.06.2017 | 21:32:29] @AveronTV [170815084271108096] :   xD
+[13.06.2017 | 21:33:43] @The Brandy [286521349025955840] :   Allerdings mach ich YT mit nem Kollegen von mir xD
+[13.06.2017 | 22:33:04] @Alala [277179540764360714] :   weiss jemand warum mein dicord bot keine commands nehmen tut ? ?
+[13.06.2017 | 22:36:04] @Lord Nightcore [315499915851857922] :   was falsches programmiert oder zeichenfehler?
+[13.06.2017 | 22:39:18] @Alala [277179540764360714] :   Nope habe alles so gemacht wie in der youtube reihe es gesagt wurde aber er will es nicht machen :/ der command sieht er aber nimmt ihn nicht
+[13.06.2017 | 22:39:48] @Lord Nightcore [315499915851857922] :   welchen willst du denn machen?
+[13.06.2017 | 22:40:19] @Alala [277179540764360714] :   einfach das er grade den ping command nimmt das geht nicht
+[13.06.2017 | 22:41:00] @Alala [277179540764360714] :   ich lade es mal auf pastebin und send es dir pribvat
+[13.06.2017 | 22:41:06] @Lord Nightcore [315499915851857922] :   kk
+[13.06.2017 | 22:55:48] @Alala [277179540764360714] :   talk 1
+[13.06.2017 | 22:58:40] @AveronTV [170815084271108096] :   ?

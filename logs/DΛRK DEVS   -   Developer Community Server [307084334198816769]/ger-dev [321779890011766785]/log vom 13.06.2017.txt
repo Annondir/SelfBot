@@ -1,0 +1,15 @@
+[13.06.2017 | 18:00:05] @Skillkiller [98719514908188672] :   Brauchen eher bei CSS, PHP und JavaScript hilfe
+[13.06.2017 | 18:29:15] @Lord Nightcore [315499915851857922] :   ne sorry
+[13.06.2017 | 18:57:02] @Lord Nightcore [315499915851857922] :   kann mir wer helfen, warum der toString nicht mehr erkennt, wenn ich subString direkt dahinter packe? ohne substring erkennt er es
+[13.06.2017 | 18:58:38] @Lord Nightcore [315499915851857922] :   also ich habs mal ohne substring gemacht und er löscht auch meine nachricht, schreibt dann aber 5x und mehr die selbe in den chat
+[13.06.2017 | 19:08:57] @zekro [221905671296253953] :   .toString() ist ne funktion
+[13.06.2017 | 19:09:00] @zekro [221905671296253953] :   also mit ()
+[13.06.2017 | 19:09:20] @zekro [221905671296253953] :   nir variablen in klassen sind ohne ()
+[13.06.2017 | 19:15:13] @Lord Nightcore [315499915851857922] :   jz hab ich noch das problem, dass ich immer 2 nahrichten als antwort  bekomme (den command löscht er aber schon), wenn ich das als code habe
+[13.06.2017 | 19:32:48] @Skillkiller [98719514908188672] :   Hats du den Bot 2 mal laufen
+[13.06.2017 | 19:34:30] @Lord Nightcore [315499915851857922] :   ne hab das String out .. mal gelöscht und jz klappts. danke trotzdem
+[13.06.2017 | 19:35:00] @Skillkiller [98719514908188672] :   Und hast du deinen Fehler mit ``.toString() `` gefunden
+[13.06.2017 | 19:35:19] @Lord Nightcore [315499915851857922] :   jup. klappt ja jz alles
+[13.06.2017 | 19:36:22] @Lord Nightcore [315499915851857922] :   bin grade mega happy
+[13.06.2017 | 20:59:14] @????????? [257905689249185792] :   kuhl.
+[13.06.2017 | 22:55:25] @AveronTV [170815084271108096] :   Wo finde ich in Intellji meine Projekte also Ordner

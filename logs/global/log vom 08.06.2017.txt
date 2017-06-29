@@ -1,0 +1,83 @@
+[08.06.2017 | 00:04:19] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   'public class voiceListener extends ListenerAdapter {
+    public void onGuildVoiceJoin(GuildVoiceJoinEvent event) {
+        if (event.getChannelJoined().getId().equals(/*"241283912729493504"*/"270174836628652040")) {
+            event.getGuild().getTextChannelsByName("test1", true).get(0).sendMessage(
+                    event.getGuild().getRolesByName("Team", false).get(0).getAsMention()+ " "+event.getVoiceState().getMember().getUser().getName()+ " joined " + event.getChannelJoined().getName() + ".").queue();
+
+        } else {
+
+        }
+
+    }
+}'
+[08.06.2017 | 00:04:57] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   `public class voiceListener extends ListenerAdapter {
+    public void onGuildVoiceJoin(GuildVoiceJoinEvent event) {
+        if (event.getChannelJoined().getId().equals(/*"241283912729493504"*/"270174836628652040")) {
+            event.getGuild().getTextChannelsByName("test1", true).get(0).sendMessage(
+                    event.getGuild().getRolesByName("Team", false).get(0).getAsMention()+ " "+event.getVoiceState().getMember().getUser().getName()+ " joined " + event.getChannelJoined().getName() + ".").queue();
+
+        } else {
+
+        }
+
+    }
+}`
+[08.06.2017 | 00:06:27] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Snowi [234667046993002496] :   Hab jetzt mal geschaut wie das bei den Bot Commands von dem Discord Bot gemacht wurde und etwas umgeschrieben
+[08.06.2017 | 00:08:19] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   jetzt bin ich ganz allein ?
+[08.06.2017 | 00:08:38] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Nicht traurig sein
+[08.06.2017 | 00:08:43] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   [happy]
+[08.06.2017 | 00:09:03] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   ?
+[08.06.2017 | 00:09:13] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   [sad]
+[08.06.2017 | 00:10:03] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Lea [284381796559355904] :   Du weißt, ich bin nur gegangen weil ich morgen früh raus muss und müde unbrauchbar bin, und nicht weil ich nicht mehr mit dir quatschen wollte :3
+[08.06.2017 | 00:10:13] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   i know
+[08.06.2017 | 00:10:26] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   trotzdem bin ich jetzt ganz alleine
+[08.06.2017 | 00:11:01] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   wenigstens ist dsaBot noch für mich da
+[08.06.2017 | 00:11:04] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   3w20
+[08.06.2017 | 00:11:05] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @DSABot [320884264956723203] :   8, 10, 16
+[08.06.2017 | 00:11:09] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   xD
+[08.06.2017 | 00:11:18] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   du verstehst mich boti
+[08.06.2017 | 00:11:22] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   2w6
+[08.06.2017 | 00:11:23] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @DSABot [320884264956723203] :   4, 1
+[08.06.2017 | 00:11:26] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Nein tut er nicht
+[08.06.2017 | 00:11:33] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   [ragequit]
+[08.06.2017 | 00:11:38] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   3w6
+[08.06.2017 | 00:11:39] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @DSABot [320884264956723203] :   2, 6, 1
+[08.06.2017 | 00:11:44] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   oh ne eins
+[08.06.2017 | 00:11:45] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   am ende
+[08.06.2017 | 00:11:47] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Das ist mein Boti
+[08.06.2017 | 00:11:50] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   3w6
+[08.06.2017 | 00:11:51] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @DSABot [320884264956723203] :   5, 4, 2
+[08.06.2017 | 00:11:51] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   [rage]
+[08.06.2017 | 00:15:07] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   kleiner tipp: mach jeweils 3 ` davon und nicht nur 1 `
+[08.06.2017 | 00:15:27] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   dann ist es ein ganzer codeblock
+[08.06.2017 | 00:20:01] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   /bash ls /home/mc/
+[08.06.2017 | 00:20:02] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   ```BuildData
+BuildTools.jar
+BuildTools.log.txt
+Bukkit
+CraftBukkit
+Spigot
+apache-maven-3.2.5
+craftbukkit-1.11.2.jar
+spigot-1.11.2.jar
+work
+```
+[08.06.2017 | 00:20:05] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   3w20
+[08.06.2017 | 00:20:06] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @DSABot [320884264956723203] :   9, 18, 11
+[08.06.2017 | 00:20:16] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @naix [200627281817763840] :   jemand bock auf ein mc projekt?
+[08.06.2017 | 00:20:26] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   er ist doch für mich da ?
+[08.06.2017 | 00:20:35] D?RK DEVS   -   Developer Community Server [307084334198816769] || ger-general [308007834807697408] @Annondir [285510544532832258] :   An sich schon
+[08.06.2017 | 00:20:48] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Jetzt Nemmer
+[08.06.2017 | 00:20:51] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   [lenny]
+[08.06.2017 | 00:20:56] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   3w20
+[08.06.2017 | 00:20:59] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   hey
+[08.06.2017 | 00:21:04] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   ?
+[08.06.2017 | 00:21:47] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Der bleibt jetzt bis nächste Woche aus
+[08.06.2017 | 00:21:50] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   [lenny]
+[08.06.2017 | 00:22:01] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   ? ?
+[08.06.2017 | 00:22:53] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Wenn ich schlafen gehe geht auch Boti schlafen ?
+[08.06.2017 | 00:23:23] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   ?
+[08.06.2017 | 00:24:30] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Und ich hoffe ihr braucht ihn nicht bis Montag, hab kein Bock mein PC so lange laufen zu lassen xD
+[08.06.2017 | 00:24:53] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Eradan [222695270377455617] :   ne montag ist erst nächste runde
+[08.06.2017 | 00:25:03] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Dann ist gut ?
+[08.06.2017 | 00:25:29] Pen&Paper [318850953208135680] || ot-chat [318850953208135680] @Annondir [285510544532832258] :   Ihr könnt mir auch nen Rasperry Pi kaufen, dann ist Boti durchgehend da xD

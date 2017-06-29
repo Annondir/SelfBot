@@ -1,0 +1,41 @@
+[08.06.2017 | 00:04:19] @Snowi [234667046993002496] :   'public class voiceListener extends ListenerAdapter {
+    public void onGuildVoiceJoin(GuildVoiceJoinEvent event) {
+        if (event.getChannelJoined().getId().equals(/*"241283912729493504"*/"270174836628652040")) {
+            event.getGuild().getTextChannelsByName("test1", true).get(0).sendMessage(
+                    event.getGuild().getRolesByName("Team", false).get(0).getAsMention()+ " "+event.getVoiceState().getMember().getUser().getName()+ " joined " + event.getChannelJoined().getName() + ".").queue();
+
+        } else {
+
+        }
+
+    }
+}'
+[08.06.2017 | 00:04:57] @Snowi [234667046993002496] :   `public class voiceListener extends ListenerAdapter {
+    public void onGuildVoiceJoin(GuildVoiceJoinEvent event) {
+        if (event.getChannelJoined().getId().equals(/*"241283912729493504"*/"270174836628652040")) {
+            event.getGuild().getTextChannelsByName("test1", true).get(0).sendMessage(
+                    event.getGuild().getRolesByName("Team", false).get(0).getAsMention()+ " "+event.getVoiceState().getMember().getUser().getName()+ " joined " + event.getChannelJoined().getName() + ".").queue();
+
+        } else {
+
+        }
+
+    }
+}`
+[08.06.2017 | 00:06:27] @Snowi [234667046993002496] :   Hab jetzt mal geschaut wie das bei den Bot Commands von dem Discord Bot gemacht wurde und etwas umgeschrieben
+[08.06.2017 | 00:15:07] @naix [200627281817763840] :   kleiner tipp: mach jeweils 3 ` davon und nicht nur 1 `
+[08.06.2017 | 00:15:27] @naix [200627281817763840] :   dann ist es ein ganzer codeblock
+[08.06.2017 | 00:20:01] @naix [200627281817763840] :   /bash ls /home/mc/
+[08.06.2017 | 00:20:02] @naix [200627281817763840] :   ```BuildData
+BuildTools.jar
+BuildTools.log.txt
+Bukkit
+CraftBukkit
+Spigot
+apache-maven-3.2.5
+craftbukkit-1.11.2.jar
+spigot-1.11.2.jar
+work
+```
+[08.06.2017 | 00:20:16] @naix [200627281817763840] :   jemand bock auf ein mc projekt?
+[08.06.2017 | 00:20:35] @Annondir [285510544532832258] :   An sich schon

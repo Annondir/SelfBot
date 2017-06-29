@@ -1,0 +1,34 @@
+[12.06.2017 | 14:29:27] @zekro [221905671296253953] :   ist schon weg ?
+[12.06.2017 | 16:04:37] @Skillkiller [98719514908188672] :   Regestriert ihr die Events ur laufzeit beim Bot oder noch vor dem ``build``
+[12.06.2017 | 16:43:22] @zekro [221905671296253953] :   vor dem build
+[12.06.2017 | 16:45:52] @Lord Nightcore [315499915851857922] :   wie mache ich das, dass der bei -say die nachricht vorher löscht, wie bei dir? also wie bau ich das ein?
+[12.06.2017 | 21:09:23] @Skillkiller [98719514908188672] :   Wie kann ich mir die Key und die Value von einem bestimmten HashMap Eintrag gettne
+[12.06.2017 | 21:10:41] @Skillkiller [98719514908188672] :   habs
+[12.06.2017 | 23:51:00] @Annondir [285510544532832258] :   ```
+ public String action(String[] args, MessageReceivedEvent event) {
+        if (event.getChannelType().equals(ChannelType.TEXT)) {
+            if (permsCore.check(event) == 0) {
+                String falsch1 = (STATIC.warning + event.getAuthor().getAsMention() + STATIC.falsch);
+                event.getTextChannel().sendMessage(falsch1).queue();
+                return falsch1;
+            } else if (permsCore.check(event) == 2) {
+                String falsch1 = (STATIC.warning + event.getAuthor().getAsMention() + STATIC.falsch);
+
+                event.getTextChannel().sendMessage(falsch1).queue();
+                return falsch1;
+            } else if (permsCore.check(event) == 3) {
+                String falsch1 = (STATIC.warning + event.getAuthor().getAsMention() + STATIC.falsch);
+                event.getTextChannel().sendMessage(falsch1).queue();
+                return falsch1;
+            } else {
+                File random =
+                        Elfen.antworten[(int) (Math.random() * Elfen.antworten.length)];
+                try {
+                    event.getTextChannel().sendFile(random,null).queue();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+```
+Warum wird wenn man die Berechtigung nicht hat, die Errornachricht 2x gesendet?

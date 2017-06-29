@@ -1,0 +1,249 @@
+[12.06.2017 | 14:28:05] @naix [200627281817763840] :   ich hab den komischsten kater aller zeiten
+[12.06.2017 | 14:28:47] @The Brandy [286521349025955840] :   zu viel party xD
+[12.06.2017 | 14:29:24] @naix [200627281817763840] :   naja, samstag war ja gar nicht mal sooo schlimm, da gabs schon schlimmere abende, aber ich hab heut erst den kater bekommen ?
+[12.06.2017 | 14:32:40] @zekro [221905671296253953] :   @The Brandy zu deiner frage, wie ich den command gemacht hab :^)
+ https://github.com/zekroTJA/regiusBot/blob/master/main.py#L63
+[12.06.2017 | 14:33:15] @The Brandy [286521349025955840] :   nice xD
+[12.06.2017 | 14:33:50] @zekro [221905671296253953] :   python ist eigentlich auch ganz schön. Mal schauen, wenn ich besser drin bin in der materie werd ich denk ich mal auch ein paar videos dazu machen ^^
+[12.06.2017 | 14:34:12] @SmokeArts [187585469712826368] :   kann man eigentlich noch zu der frage von gestern abstimmen?
+[12.06.2017 | 14:34:27] @SmokeArts [187585469712826368] :   also über ein python-bot tutorial?
+[12.06.2017 | 14:34:30] @zekro [221905671296253953] :   ach fuck xD
+[12.06.2017 | 14:34:38] @SmokeArts [187585469712826368] :   ? x)
+[12.06.2017 | 14:34:39] @zekro [221905671296253953] :   das wird resetet nach restart des bots ?
+[12.06.2017 | 14:34:47] @SmokeArts [187585469712826368] :   oh xD
+[12.06.2017 | 14:34:50] @zekro [221905671296253953] :   hab das noch nicht mit ne savefile gemahct
+[12.06.2017 | 14:34:59] @zekro [221905671296253953] :   ich mach den vote infach nochmal auf ?
+[12.06.2017 | 14:35:01] @naix [200627281817763840] :   files D:
+[12.06.2017 | 14:35:07] @SmokeArts [187585469712826368] :   okay xD
+[12.06.2017 | 14:35:46] @zekro [221905671296253953] :   -vote create Also, nochmal, Python Discord Tutorial (discord.py API) - Interesse? :D|Jo|Nä
+[12.06.2017 | 14:35:46] @zekrosBot [272336949841362944] :   
+[12.06.2017 | 14:35:53] @The Brandy [286521349025955840] :   zekro du tippst zuu schnell xD
+[12.06.2017 | 14:36:01] @Skillkiller [98719514908188672] :   -vote v 2
+[12.06.2017 | 14:36:02] @The Brandy [286521349025955840] :   -vote v 1
+[12.06.2017 | 14:36:10] @zekro [221905671296253953] :   ich kann nicht mal 10 finger schreibweise ?
+[12.06.2017 | 14:36:15] @SmokeArts [187585469712826368] :   -vote v 2
+[12.06.2017 | 14:36:27] @The Brandy [286521349025955840] :   ich auch nicht xD
+[12.06.2017 | 14:36:29] @SmokeArts [187585469712826368] :   ich auch nicht würde es aber gerne können >.<
+[12.06.2017 | 14:36:32] @naix [200627281817763840] :   also ich schreib mit 10 fingern aber heute gehts irgenwie nicht wirklich xd
+[12.06.2017 | 14:36:45] @SmokeArts [187585469712826368] :   xD
+[12.06.2017 | 14:36:58] @naix [200627281817763840] :   mein rekord waren fast 100wpm xd
+[12.06.2017 | 14:37:10] @The Brandy [286521349025955840] :   ich sag immer brauch man es nicht zum überlegen ist es egal xD
+[12.06.2017 | 14:37:12] @SmokeArts [187585469712826368] :   das ist richtig gut oder?
+[12.06.2017 | 14:37:12] @zekro [221905671296253953] :   Bei mir ist das irgendwie so eine mischung. lege halt nicht meine finger klassisch wie bei der 10 finger weise auf die tastatur ?
+[12.06.2017 | 14:37:30] @SmokeArts [187585469712826368] :   und schreibst dann mit 5 oder so? x)
+[12.06.2017 | 14:38:36] @naix [200627281817763840] :   bin mal eben einen fleck auf meinem tshirt entfernen xd
+[12.06.2017 | 14:38:38] @The Brandy [286521349025955840] :   ach xD
+[12.06.2017 | 14:39:14] @SmokeArts [187585469712826368] :   ich habe fick gelesen xD
+wtf geht bei meiner lesekompetenz XD
+[12.06.2017 | 14:39:22] @Skillkiller [98719514908188672] :   ?
+[12.06.2017 | 14:39:26] @zekro [221905671296253953] :   Ist jetzt nicht das beste ?
+[12.06.2017 | 14:39:30] @zekro [221905671296253953] :   https://10fastfingers.com/typing-test/german
+[12.06.2017 | 14:39:44] @The Brandy [286521349025955840] :   Senpaiiiiiiiiiiiiisssssss überallllllllllllll xD
+[12.06.2017 | 14:40:10] @The Brandy [286521349025955840] :   @?  ???  (zekro)  hast du r6 über steam oder ubisoft xD
+[12.06.2017 | 14:40:21] @zekro [221905671296253953] :   habs im steam sale gekauft
+[12.06.2017 | 14:40:25] @naix [200627281817763840] :   ich kann ja mal gleich einen 10fastfingers test machen xd
+[12.06.2017 | 14:40:36] @zekro [221905671296253953] :   also auf steam und läuft trotzdem über ubischrott
+[12.06.2017 | 14:40:49] @naix [200627281817763840] :   leider
+[12.06.2017 | 14:41:10] @SmokeArts [187585469712826368] :   Senpai ha dokonimo desu
+[12.06.2017 | 14:41:20] @The Brandy [286521349025955840] :   na dann ist es egal wnn ich es mir über mmoga kaufe xD
+[12.06.2017 | 14:41:24] @zekro [221905671296253953] :   letztens vorm patchday von r6 waren die server 2 tage >8 stunden teilweise offline...
+[12.06.2017 | 14:41:32] @zekro [221905671296253953] :   jo sollte wurst sein ^^
+[12.06.2017 | 14:41:36] @The Brandy [286521349025955840] :   ich weiss xD
+[12.06.2017 | 14:41:52] @The Brandy [286521349025955840] :   ach  der hitbox patch xD
+[12.06.2017 | 14:42:04] @The Brandy [286521349025955840] :   bin mal r6 cracked zocken xD
+[12.06.2017 | 14:42:09] @Annondir [285510544532832258] :   https://10fastfingers.com/share-badge/2_AV
+Auch nicht so schnell @?  ???  (zekro) xD
+[12.06.2017 | 14:42:10] @zekro [221905671296253953] :   xD
+[12.06.2017 | 14:42:15] @naix [200627281817763840] :   hab es über steam gekauft weil ich noch was über hatte xd
+[12.06.2017 | 14:42:40] @naix [200627281817763840] :   aber kaum spielzeit xd
+[12.06.2017 | 14:42:47] @SmokeArts [187585469712826368] :   Hat jemand voneuch bleach geschaut?
+[12.06.2017 | 14:43:41] @The Brandy [286521349025955840] :   35 wörter xD
+[12.06.2017 | 14:43:45] @Annondir [285510544532832258] :   xD
+[12.06.2017 | 14:43:56] @The Brandy [286521349025955840] :   hackst doch bestimmt xD
+[12.06.2017 | 14:44:13] @Annondir [285510544532832258] :   auf jedenfall xD
+[12.06.2017 | 14:44:44] @The Brandy [286521349025955840] :   @?  ???  (zekro)  kann es sein das du ein fan von remixen bist? xD
+[12.06.2017 | 14:45:50] @zekro [221905671296253953] :   wieso? ?
+[12.06.2017 | 14:46:00] @naix [200627281817763840] :   XDDD
+[12.06.2017 | 14:46:16] @naix [200627281817763840] :   Ratet mal wie viel wpm ich habe
+[12.06.2017 | 14:46:27] @The Brandy [286521349025955840] :   die zweite playlist xD https://www.youtube.com/user/Zekrommaster110/playlists
+[12.06.2017 | 14:46:28] @zekro [221905671296253953] :   80?
+[12.06.2017 | 14:46:36] @naix [200627281817763840] :   lol zekro http://p.naix.pro/naix-17506512b14e-28.png
+[12.06.2017 | 14:46:37] @Skillkiller [98719514908188672] :   Weiß einer von euch wann wieder Blackfriday ist
+[12.06.2017 | 14:46:41] @zekro [221905671296253953] :   xD
+[12.06.2017 | 14:46:49] @naix [200627281817763840] :   und heut ist ein schlechter tag xd
+[12.06.2017 | 14:46:54] @Skillkiller [98719514908188672] :   0 falsche Tastenanschläge
+[12.06.2017 | 14:47:04] @naix [200627281817763840] :   xd
+[12.06.2017 | 14:47:17] @The Brandy [286521349025955840] :   xD ich krieg das bild nicht aus dem kopf xD
+[12.06.2017 | 14:47:25] @zekro [221905671296253953] :   @The Brandy achso ? Ja, kann sein ?
+[12.06.2017 | 14:47:30] @The Brandy [286521349025955840] :   xD
+[12.06.2017 | 14:47:58] @naix [200627281817763840] :   Zekro ich hab noch ein lied für die How it is covers playlist
+[12.06.2017 | 14:47:59] @The Brandy [286521349025955840] :   ich hab mir grade vorgestellt  das du das mit mitsingst xD
+[12.06.2017 | 14:48:19] @naix [200627281817763840] :   https://www.youtube.com/watch?v=toP0XHZr4XY&t=124s
+[12.06.2017 | 14:49:03] @zekro [221905671296253953] :   immernoch besser als das original
+[12.06.2017 | 14:49:07] @naix [200627281817763840] :   stimmt ?
+[12.06.2017 | 14:49:19] @naix [200627281817763840] :   hab ihn gefragt ob er ein "Justin Bieber - Baby" remix macht
+[12.06.2017 | 14:49:28] @The Brandy [286521349025955840] :   xD
+[12.06.2017 | 14:49:36] @naix [200627281817763840] :   er meinte vielleicht xd
+[12.06.2017 | 14:49:51] @Skillkiller [98719514908188672] :   .stats
+[12.06.2017 | 14:49:54] @Skillkiller [98719514908188672] :   .d
+[12.06.2017 | 14:49:57] @Skillkiller [98719514908188672] :   .d 2
+[12.06.2017 | 14:50:17] @Skillkiller [98719514908188672] :   .bash ls
+[12.06.2017 | 14:50:17] @Skillkiller [98719514908188672] :   ```selfbot
+SelfBot.jar
+```
+[12.06.2017 | 14:50:23] @Skillkiller [98719514908188672] :   .d 2
+[12.06.2017 | 14:51:23] @Skillkiller [98719514908188672] :   .bash ls -a
+[12.06.2017 | 14:51:23] @Skillkiller [98719514908188672] :   ```.
+..
+.aptitude
+.bash_aliases
+.bash_history
+.bashrc
+.config
+.mysql_history
+.oracle_jre_usage
+.profile
+.selected_editor
+selfbot
+SelfBot.jar
+.ssh
+```
+[12.06.2017 | 14:51:27] @Skillkiller [98719514908188672] :   .d 2
+[12.06.2017 | 14:51:29] @The Brandy [286521349025955840] :   eins der lieder wurde gesperrt zekro xD
+[12.06.2017 | 14:51:50] @Skillkiller [98719514908188672] :   Hat jemand von euch Dead by Daylight
+[12.06.2017 | 14:52:09] @The Brandy [286521349025955840] :   nein aber bioshock xD
+[12.06.2017 | 14:52:19] @zekro [221905671296253953] :   ist ja fast das selbe ?
+[12.06.2017 | 14:52:40] @The Brandy [286521349025955840] :   remasterd ist genau wie das normale xD
+[12.06.2017 | 14:53:19] @The Brandy [286521349025955840] :   dieser moment wenn du auf ts3 joinst und an push-to-talk gewohnt bist xD
+[12.06.2017 | 14:53:51] @zekro [221905671296253953] :   wollte mich auch mal an p2t gewöhnen.
+[12.06.2017 | 14:54:00] @zekro [221905671296253953] :   Aber finde keinen key den ich dafür nutzen kann ?
+[12.06.2017 | 14:54:14] @Skillkiller [98719514908188672] :   @The Brandy Wieso bist du Push to Talk gewöhnt
+[12.06.2017 | 14:54:21] @The Brandy [286521349025955840] :   discord xD
+[12.06.2017 | 14:54:22] @naix [200627281817763840] :   yay ich hab 81 wpm :lul:
+[12.06.2017 | 14:54:37] @Skillkiller [98719514908188672] :   @The Brandy Da geht doch auch sprachaktivierung
+[12.06.2017 | 14:55:00] @The Brandy [286521349025955840] :   nee ich mag p2t mehr XD
+[12.06.2017 | 14:55:09] @Skillkiller [98719514908188672] :   Pfui....
+[12.06.2017 | 14:55:24] @The Brandy [286521349025955840] :   1v1 csgo xD+
+[12.06.2017 | 14:56:02] @The Brandy [286521349025955840] :   ich sag meinen freund bescheid xD
+[12.06.2017 | 14:57:23] @Skillkiller [98719514908188672] :   Man kann auch eine Hashmap aus einem String parsen oder
+[12.06.2017 | 14:57:55] @Skillkiller [98719514908188672] :   .d
+[12.06.2017 | 14:58:00] @Skillkiller [98719514908188672] :   .d 2
+[12.06.2017 | 14:59:09] @naix [200627281817763840] :   mein bot ist irgendwie langsam xd naja bei über 5 tagen uptime [shrug]
+[12.06.2017 | 14:59:54] @Skillkiller [98719514908188672] :   Die Uptime sollte doch eigentlich nicht die Performance beeinträchtigen oder
+[12.06.2017 | 15:00:10] @naix [200627281817763840] :   eigentlich nicht [shrug]
+[12.06.2017 | 15:00:20] @naix [200627281817763840] :   /bash ls
+[12.06.2017 | 15:00:20] @naix [200627281817763840] :   ```NodeJS
+restart.sh
+selfbot
+speedtest.py
+start.sh
+stop.sh
+test.txt
+update.sh
+```
+[12.06.2017 | 15:00:26] @naix [200627281817763840] :   /bash sh restart.sh
+[12.06.2017 | 15:00:26] @naix [200627281817763840] :   ``````
+[12.06.2017 | 15:00:44] @Skillkiller [98719514908188672] :   Naix, wie hast du deine Emoji's in eine exteren Datei gebracht
+[12.06.2017 | 15:00:56] @Skillkiller [98719514908188672] :   Bzw du hast die doch ausgelagert oder
+[12.06.2017 | 15:01:10] @naix [200627281817763840] :   ? was meinste
+[12.06.2017 | 15:01:35] @Skillkiller [98719514908188672] :   Eine Replacements: [ shrug] oder so wird ja ersetzt
+[12.06.2017 | 15:01:54] @Skillkiller [98719514908188672] :   [hilfe]
+[12.06.2017 | 15:02:06] @naix [200627281817763840] :   achso, ne hab ich noch nicht ausgelagert weil ich seit fast einer woche nicht mehr am bot geratbeitet hab
+[12.06.2017 | 15:02:22] @Skillkiller [98719514908188672] :   Ah also hast du die noch fest im Code
+[12.06.2017 | 15:02:28] @naix [200627281817763840] :   im moment ja
+[12.06.2017 | 15:02:40] @naix [200627281817763840] :   weil das communityprojekt vorrang hat bei mir xd
+[12.06.2017 | 15:03:29] @Skillkiller [98719514908188672] :   Ne ich will mich mal wieder um meinem Bot kümmern das die Stats mal wieder gehen
+[12.06.2017 | 15:03:30] @Skillkiller [98719514908188672] :   .stats
+[12.06.2017 | 15:03:38] @naix [200627281817763840] :   /uptime
+[12.06.2017 | 15:03:46] @Skillkiller [98719514908188672] :   .uptie
+[12.06.2017 | 15:03:48] @Skillkiller [98719514908188672] :   .d 2
+[12.06.2017 | 15:03:48] @zekro [221905671296253953] :   -uptime
+[12.06.2017 | 15:03:48] @zekrosBot [272336949841362944] :   
+[12.06.2017 | 15:03:54] @Skillkiller [98719514908188672] :   .uptime
+[12.06.2017 | 15:04:04] @zekro [221905671296253953] :   wie alle ihre uptimes checken xD
+[12.06.2017 | 15:04:08] @naix [200627281817763840] :   xd
+[12.06.2017 | 15:04:23] @Skillkiller [98719514908188672] :   Wieso sind wir plötlich wieder gelb @?  ???  (zekro)
+[12.06.2017 | 15:04:38] @The Brandy [286521349025955840] :   spiele grad als kapkan und der letzte feind taucht net auf xD
+[12.06.2017 | 15:04:50] @Skillkiller [98719514908188672] :   Hast du die "Stammuser" Gruppe über Project Stuff gelgt
+[12.06.2017 | 15:05:06] @naix [200627281817763840] :   nerf glaz
+[12.06.2017 | 15:05:11] @naix [200627281817763840] :   :lul:
+[12.06.2017 | 15:05:18] @The Brandy [286521349025955840] :   ich spiel nur cracked leider xD
+[12.06.2017 | 15:15:45] @Skillkiller [98719514908188672] :   ``replacement={[loading]\=\u2588\u2588\u2588\u2592\u2592\u2592\u2592\u2592\u2592\u2592, [setstate]\=https\://goo.gl/, [guidelink]\=https\://goo.gl/, doublerageflip\=\u253B\u2501\u253B \uFE35\u30FD(`\u0414\u00B4)\uFF89\uFE35 \u253B\u2501\u253B, [shrug]\=\u00AF\\_(\u30C4)_/\u00AF, [billy]\=[\u0332\u0305$\u0332\u0305(\u0332\u0305 \u0361\u00B0 \u035C\u0296 \u0361\u00B0\u0332\u0305)\u0332\u0305$\u0332\u0305], [sword]\=o()xxxx[{\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:>, [ironie]\=[Ironie\: http\://share.thecoin.de/Ironie.png ], [$]\=[\u0332\u0305$\u0332\u0305(\u0332\u0305\u03B9\u03BF\u0332\u0305\u0305)\u0332\u0305$\u0332\u0305], [ohshit]\=( \u00BA\uFE43\u00BA ), [what]\=\u00AF\\(\u00B0_o)/\u00AF, [007]\=\u250C( \u035D\u00B0 \u035C\u0296\u0361\u00B0)\=\u03B5/\u0335\u0347\u033F\u033F/\u2019\u033F\u2019\u033F \u033F, [rageflip]\=(\u30CE\u0CA0\u76CA\u0CA0)\u30CE\u5F61\u253B\u2501\u253B, [lenny]\=( \u0361\u00B0 \u035C\u0296 \u0361\u00B0)}``
+
+Blöde idee eine Hashmap in einen String zu verwandeln
+[12.06.2017 | 15:15:59] @Annondir [285510544532832258] :   xD
+[12.06.2017 | 15:17:15] @The Brandy [286521349025955840] :   spielt wer minecraft mit mir xD
+[12.06.2017 | 15:18:31] @Skillkiller [98719514908188672] :   Kommt drauf an was @The Brandy
+[12.06.2017 | 15:18:44] @The Brandy [286521349025955840] :   mining dead?
+[12.06.2017 | 15:19:02] @The Brandy [286521349025955840] :   auf havoc.net? xD
+[12.06.2017 | 15:19:03] @Skillkiller [98719514908188672] :   .d 3
+[12.06.2017 | 15:19:11] @Skillkiller [98719514908188672] :   Ne  ?
+[12.06.2017 | 15:19:30] @The Brandy [286521349025955840] :   schlag was vor ^^ xD
+[12.06.2017 | 15:19:49] @Skillkiller [98719514908188672] :   Ich mach an meinem Selfbot weiter ?
+[12.06.2017 | 15:19:57] @The Brandy [286521349025955840] :   -.-
+[12.06.2017 | 15:22:05] @Lord Nightcore [315499915851857922] :   Ich auch bevor du fragen solltest. Sorry
+[12.06.2017 | 15:30:43] @????????? [257905689249185792] :   hi
+[12.06.2017 | 15:32:08] @The Brandy [286521349025955840] :   -.-
+[12.06.2017 | 17:24:55] @TheDeepSpacer [161855472926720001] :   was ist da passiert @?  ???  (zekro)
+[12.06.2017 | 17:26:14] @zekro [221905671296253953] :   der installer ist mittleriwele glaub ich fürn arsch ? Muss ich mal überarbeiten.
+[12.06.2017 | 17:26:35] @zekro [221905671296253953] :   lad dir einfach die jar runter und führ sie mit `java -jar DiscordBot.jar` aus ^^
+[12.06.2017 | 17:27:39] @TheDeepSpacer [161855472926720001] :   danke aber wo? auf github sehe ichs nicht
+[12.06.2017 | 17:27:58] @TheDeepSpacer [161855472926720001] :   ok habs
+[12.06.2017 | 17:29:02] @????????? [257905689249185792] :   ._.
+[12.06.2017 | 17:30:39] @zekro [221905671296253953] :   https://github.com/zekroTJA/DiscordBot/tree/dev/out/artifacts/DiscordBot_jar ?
+[12.06.2017 | 17:34:59] @TheDeepSpacer [161855472926720001] :   er löscht iwie immer mien jar file
+[12.06.2017 | 18:00:11] @zekro [221905671296253953] :   dann mach mal in den settings auto update aus
+[12.06.2017 | 18:00:58] @zekro [221905671296253953] :   !lmgtfy
+[12.06.2017 | 18:00:59] @Knecht [323587299617275904] :   
+[12.06.2017 | 18:01:36] @zekro [221905671296253953] :   !lmgtfy Sieht dann so aus|wer das liest ist dumm :^)
+[12.06.2017 | 18:01:36] @Knecht [323587299617275904] :   
+[12.06.2017 | 18:08:52] @naix [200627281817763840] :   !lmgtfy gratis paysafe karten|wer das glaubt stinkt
+[12.06.2017 | 18:08:53] @Knecht [323587299617275904] :   
+[12.06.2017 | 18:11:22] @Lord Nightcore [315499915851857922] :   Top??
+[12.06.2017 | 18:57:09] @zekro [221905671296253953] :   Ich brauch mal eure hilfe leute ^^
+
+Hat jemand eventuell ne ahnung, wo man sich solch ein display, wie an der stelle im video gezeigt ist, kaufen kann?
+https://youtu.be/u03dc5JqSeo
+
+Hab selbst schon bei amazon geschaut, aber da gibt es fast nur solche displays mit Touchscreen, will das aber ohne. Nur um so pc stats oder discord oder so anzeigen lassen zu können darauf ohne immer den großen zweiten monitor an haben zu müssen.
+[12.06.2017 | 19:02:58] @Front. [318773753796624394] :   Such dir doch einen kleinen Kamerabildschirm https://www.amazon.de/s/ref=nb_sb_noss_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=kamerabildschirm&rh=i%3Aaps%2Ck%3Akamerabildschirm
+[12.06.2017 | 19:03:14] @Front. [318773753796624394] :   Kannst du einfach per HDMI an deinen PC anschließen
+[12.06.2017 | 19:03:41] @Front. [318773753796624394] :   Der Link zu seinem Bildschirm ist in seiner Videobeschreibung ^^
+[12.06.2017 | 19:03:47] @Front. [318773753796624394] :   https://www.amazon.de/gp/product/B00AF5EUAG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00AF5EUAG&linkCode=as2&tag=valenti04-21
+[12.06.2017 | 19:20:15] @naix [200627281817763840] :   @Front. haste kurz zeit?
+[12.06.2017 | 19:22:28] @naix [200627281817763840] :   /d
+[12.06.2017 | 19:34:01] @naix [200627281817763840] :   @Devs ich brauche einen freiwilligen der Minecraft im besitzt hat zum testen
+[12.06.2017 | 19:34:12] @TheDeepSpacer [161855472926720001] :   :papaN:
+[12.06.2017 | 19:34:27] @Annondir [285510544532832258] :   @? naix ich
+[12.06.2017 | 19:34:34] @naix [200627281817763840] :   k annondir wie heißt du ingame
+[12.06.2017 | 19:34:41] @TheDeepSpacer [161855472926720001] :   me 2
+[12.06.2017 | 19:34:43] @Annondir [285510544532832258] :   Annondir xD
+[12.06.2017 | 19:34:47] @TheDeepSpacer [161855472926720001] :   TheDeepSpacer
+[12.06.2017 | 19:34:48] @naix [200627281817763840] :   brauch nur ein xd
+[12.06.2017 | 19:34:54] @Lord Nightcore [315499915851857922] :   ich auch, hab aber grad keinen pc zur hand
+[12.06.2017 | 19:34:56] @TheDeepSpacer [161855472926720001] :   oh wow xD
+[12.06.2017 | 19:35:19] @naix [200627281817763840] :   annondir connecte auf naix.cf
+[12.06.2017 | 19:35:23] @naix [200627281817763840] :   bist whitelisted
+[12.06.2017 | 19:35:38] @TheDeepSpacer [161855472926720001] :   die frage wäre noch weclhe version xD
+[12.06.2017 | 19:37:46] @naix [200627281817763840] :   @Annondir kannst wieder joinen
+[12.06.2017 | 20:13:04] @naix [200627281817763840] :   @Annondir noch da?
+[12.06.2017 | 20:28:15] @Front. [318773753796624394] :   Lol, moin Lars xD
+[12.06.2017 | 20:28:24] @LarsLary [283609341519724545] :   XD
+[12.06.2017 | 20:28:28] @Front. [318773753796624394] :   Was geht xD
+[12.06.2017 | 20:28:38] @LarsLary [283609341519724545] :   nicht viel eigentlich ?
+[12.06.2017 | 20:29:09] @LarsLary [283609341519724545] :   bin nur so am coden und bin auf den server gejoint
+[12.06.2017 | 20:31:21] @Skillkiller [98719514908188672] :   Kann man bei einer Embed Message ein Field im Field erstellen
+[12.06.2017 | 20:40:40] @LarsLary [283609341519724545] :   glaube nicht aber du kannst es ja probieren
+[12.06.2017 | 20:40:40] @Unique Bot [302932668344172545] :   
+[12.06.2017 | 20:46:13] @LarsLary [283609341519724545] :   h
+[12.06.2017 | 20:46:13] @Unique Bot [302932668344172545] :   
+[12.06.2017 | 20:46:40] @Front. [318773753796624394] :   Ich glaube der Bot mag Lars nicht
+[12.06.2017 | 20:46:40] @Unique Bot [302932668344172545] :   
+[12.06.2017 | 20:46:49] @Front. [318773753796624394] :   Ich glaube er mag niemanden xD
+[12.06.2017 | 20:46:49] @Unique Bot [302932668344172545] :   
+[12.06.2017 | 20:48:47] @Skillkiller [98719514908188672] :   Wieso
+[12.06.2017 | 20:48:49] @Unique Bot [302932668344172545] :   
+[12.06.2017 | 20:48:58] @Front. [318773753796624394] :   Deshalb xD
+[12.06.2017 | 20:48:59] @Unique Bot [302932668344172545] :   
+[12.06.2017 | 20:50:35] @Skillkiller [98719514908188672] :   Ja okay aber der Rise of Chaos ist schon dran ?
+[12.06.2017 | 20:50:35] @Unique Bot [302932668344172545] :   
